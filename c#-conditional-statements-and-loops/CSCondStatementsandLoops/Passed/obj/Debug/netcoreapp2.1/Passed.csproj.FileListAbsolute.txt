@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsandLoops\Passed\bin\Debug\netcoreapp2.1\Passed.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsandLoops\Passed\bin\Debug\netcoreapp2.1\Passed.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsandLoops\Passed\bin\Debug\netcoreapp2.1\Passed.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsandLoops\Passed\bin\Debug\netcoreapp2.1\Passed.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsandLoops\Passed\bin\Debug\netcoreapp2.1\Passed.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsandLoops\Passed\obj\Debug\netcoreapp2.1\Passed.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsandLoops\Passed\obj\Debug\netcoreapp2.1\Passed.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsandLoops\Passed\obj\Debug\netcoreapp2.1\Passed.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsandLoops\Passed\obj\Debug\netcoreapp2.1\Passed.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsandLoops\Passed\obj\Debug\netcoreapp2.1\Passed.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsandLoops\Passed\obj\Debug\netcoreapp2.1\Passed.pdb

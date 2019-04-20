@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CSharpIntroAndBasicSyntax\EmployeeData\bin\Debug\netcoreapp2.1\EmployeeData.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CSharpIntroAndBasicSyntax\EmployeeData\bin\Debug\netcoreapp2.1\EmployeeData.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CSharpIntroAndBasicSyntax\EmployeeData\bin\Debug\netcoreapp2.1\EmployeeData.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CSharpIntroAndBasicSyntax\EmployeeData\bin\Debug\netcoreapp2.1\EmployeeData.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CSharpIntroAndBasicSyntax\EmployeeData\bin\Debug\netcoreapp2.1\EmployeeData.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CSharpIntroAndBasicSyntax\EmployeeData\obj\Debug\netcoreapp2.1\EmployeeData.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CSharpIntroAndBasicSyntax\EmployeeData\obj\Debug\netcoreapp2.1\EmployeeData.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CSharpIntroAndBasicSyntax\EmployeeData\obj\Debug\netcoreapp2.1\EmployeeData.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CSharpIntroAndBasicSyntax\EmployeeData\obj\Debug\netcoreapp2.1\EmployeeData.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CSharpIntroAndBasicSyntax\EmployeeData\obj\Debug\netcoreapp2.1\EmployeeData.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CsharpIntroAndBasicSyntaxExerc\BeverageLabels\bin\Debug\netcoreapp2.1\BeverageLabels.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CsharpIntroAndBasicSyntaxExerc\BeverageLabels\bin\Debug\netcoreapp2.1\BeverageLabels.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CsharpIntroAndBasicSyntaxExerc\BeverageLabels\bin\Debug\netcoreapp2.1\BeverageLabels.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CsharpIntroAndBasicSyntaxExerc\BeverageLabels\bin\Debug\netcoreapp2.1\BeverageLabels.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CsharpIntroAndBasicSyntaxExerc\BeverageLabels\bin\Debug\netcoreapp2.1\BeverageLabels.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CsharpIntroAndBasicSyntaxExerc\BeverageLabels\obj\Debug\netcoreapp2.1\BeverageLabels.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CsharpIntroAndBasicSyntaxExerc\BeverageLabels\obj\Debug\netcoreapp2.1\BeverageLabels.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CsharpIntroAndBasicSyntaxExerc\BeverageLabels\obj\Debug\netcoreapp2.1\BeverageLabels.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CsharpIntroAndBasicSyntaxExerc\BeverageLabels\obj\Debug\netcoreapp2.1\BeverageLabels.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CsharpIntroAndBasicSyntaxExerc\BeverageLabels\obj\Debug\netcoreapp2.1\BeverageLabels.pdb

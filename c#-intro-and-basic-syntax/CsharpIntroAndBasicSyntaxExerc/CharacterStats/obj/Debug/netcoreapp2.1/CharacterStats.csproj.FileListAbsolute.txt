@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CsharpIntroAndBasicSyntaxExerc\CharacterStats\bin\Debug\netcoreapp2.1\CharacterStats.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CsharpIntroAndBasicSyntaxExerc\CharacterStats\bin\Debug\netcoreapp2.1\CharacterStats.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CsharpIntroAndBasicSyntaxExerc\CharacterStats\bin\Debug\netcoreapp2.1\CharacterStats.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CsharpIntroAndBasicSyntaxExerc\CharacterStats\bin\Debug\netcoreapp2.1\CharacterStats.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CsharpIntroAndBasicSyntaxExerc\CharacterStats\bin\Debug\netcoreapp2.1\CharacterStats.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CsharpIntroAndBasicSyntaxExerc\CharacterStats\obj\Debug\netcoreapp2.1\CharacterStats.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CsharpIntroAndBasicSyntaxExerc\CharacterStats\obj\Debug\netcoreapp2.1\CharacterStats.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CsharpIntroAndBasicSyntaxExerc\CharacterStats\obj\Debug\netcoreapp2.1\CharacterStats.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CsharpIntroAndBasicSyntaxExerc\CharacterStats\obj\Debug\netcoreapp2.1\CharacterStats.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Intro and Basic Syntax\CsharpIntroAndBasicSyntaxExerc\CharacterStats\obj\Debug\netcoreapp2.1\CharacterStats.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\FastPrimeChecker\bin\Debug\netcoreapp2.1\FastPrimeChecker.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\FastPrimeChecker\bin\Debug\netcoreapp2.1\FastPrimeChecker.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\FastPrimeChecker\bin\Debug\netcoreapp2.1\FastPrimeChecker.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\FastPrimeChecker\bin\Debug\netcoreapp2.1\FastPrimeChecker.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\FastPrimeChecker\bin\Debug\netcoreapp2.1\FastPrimeChecker.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\FastPrimeChecker\obj\Debug\netcoreapp2.1\FastPrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\FastPrimeChecker\obj\Debug\netcoreapp2.1\FastPrimeChecker.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\FastPrimeChecker\obj\Debug\netcoreapp2.1\FastPrimeChecker.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\FastPrimeChecker\obj\Debug\netcoreapp2.1\FastPrimeChecker.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\FastPrimeChecker\obj\Debug\netcoreapp2.1\FastPrimeChecker.pdb

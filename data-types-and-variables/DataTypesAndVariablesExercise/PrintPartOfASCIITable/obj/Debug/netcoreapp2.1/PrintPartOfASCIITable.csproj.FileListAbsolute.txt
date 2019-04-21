@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\PrintPartOfASCIITable\bin\Debug\netcoreapp2.1\PrintPartOfASCIITable.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\PrintPartOfASCIITable\bin\Debug\netcoreapp2.1\PrintPartOfASCIITable.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\PrintPartOfASCIITable\bin\Debug\netcoreapp2.1\PrintPartOfASCIITable.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\PrintPartOfASCIITable\bin\Debug\netcoreapp2.1\PrintPartOfASCIITable.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\PrintPartOfASCIITable\bin\Debug\netcoreapp2.1\PrintPartOfASCIITable.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\PrintPartOfASCIITable\obj\Debug\netcoreapp2.1\PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\PrintPartOfASCIITable\obj\Debug\netcoreapp2.1\PrintPartOfASCIITable.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\PrintPartOfASCIITable\obj\Debug\netcoreapp2.1\PrintPartOfASCIITable.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\PrintPartOfASCIITable\obj\Debug\netcoreapp2.1\PrintPartOfASCIITable.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\PrintPartOfASCIITable\obj\Debug\netcoreapp2.1\PrintPartOfASCIITable.pdb

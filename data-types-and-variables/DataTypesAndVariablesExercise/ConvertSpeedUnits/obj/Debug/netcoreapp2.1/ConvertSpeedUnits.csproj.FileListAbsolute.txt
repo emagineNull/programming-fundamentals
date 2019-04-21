@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\ConvertSpeedUnits\bin\Debug\netcoreapp2.1\ConvertSpeedUnits.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\ConvertSpeedUnits\bin\Debug\netcoreapp2.1\ConvertSpeedUnits.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\ConvertSpeedUnits\bin\Debug\netcoreapp2.1\ConvertSpeedUnits.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\ConvertSpeedUnits\bin\Debug\netcoreapp2.1\ConvertSpeedUnits.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\ConvertSpeedUnits\bin\Debug\netcoreapp2.1\ConvertSpeedUnits.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\ConvertSpeedUnits\obj\Debug\netcoreapp2.1\ConvertSpeedUnits.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\ConvertSpeedUnits\obj\Debug\netcoreapp2.1\ConvertSpeedUnits.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\ConvertSpeedUnits\obj\Debug\netcoreapp2.1\ConvertSpeedUnits.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\ConvertSpeedUnits\obj\Debug\netcoreapp2.1\ConvertSpeedUnits.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\ConvertSpeedUnits\obj\Debug\netcoreapp2.1\ConvertSpeedUnits.pdb

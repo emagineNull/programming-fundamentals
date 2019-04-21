@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\CenturiesToNanoseconds\bin\Debug\netcoreapp2.1\CenturiesToNanoseconds.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\CenturiesToNanoseconds\bin\Debug\netcoreapp2.1\CenturiesToNanoseconds.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\CenturiesToNanoseconds\bin\Debug\netcoreapp2.1\CenturiesToNanoseconds.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\CenturiesToNanoseconds\bin\Debug\netcoreapp2.1\CenturiesToNanoseconds.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\CenturiesToNanoseconds\bin\Debug\netcoreapp2.1\CenturiesToNanoseconds.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\CenturiesToNanoseconds\obj\Debug\netcoreapp2.1\CenturiesToNanoseconds.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\CenturiesToNanoseconds\obj\Debug\netcoreapp2.1\CenturiesToNanoseconds.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\CenturiesToNanoseconds\obj\Debug\netcoreapp2.1\CenturiesToNanoseconds.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\CenturiesToNanoseconds\obj\Debug\netcoreapp2.1\CenturiesToNanoseconds.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\CenturiesToNanoseconds\obj\Debug\netcoreapp2.1\CenturiesToNanoseconds.pdb

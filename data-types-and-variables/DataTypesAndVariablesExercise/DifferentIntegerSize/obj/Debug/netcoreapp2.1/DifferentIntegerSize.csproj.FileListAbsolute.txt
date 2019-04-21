@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\DifferentIntegerSize\bin\Debug\netcoreapp2.1\DifferentIntegerSize.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\DifferentIntegerSize\bin\Debug\netcoreapp2.1\DifferentIntegerSize.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\DifferentIntegerSize\bin\Debug\netcoreapp2.1\DifferentIntegerSize.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\DifferentIntegerSize\bin\Debug\netcoreapp2.1\DifferentIntegerSize.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\DifferentIntegerSize\bin\Debug\netcoreapp2.1\DifferentIntegerSize.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\DifferentIntegerSize\obj\Debug\netcoreapp2.1\DifferentIntegerSize.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\DifferentIntegerSize\obj\Debug\netcoreapp2.1\DifferentIntegerSize.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\DifferentIntegerSize\obj\Debug\netcoreapp2.1\DifferentIntegerSize.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\DifferentIntegerSize\obj\Debug\netcoreapp2.1\DifferentIntegerSize.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\DifferentIntegerSize\obj\Debug\netcoreapp2.1\DifferentIntegerSize.pdb

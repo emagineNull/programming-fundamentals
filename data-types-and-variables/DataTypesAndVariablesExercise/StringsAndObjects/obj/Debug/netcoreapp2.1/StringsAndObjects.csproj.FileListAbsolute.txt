@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\StringsAndObjects\bin\Debug\netcoreapp2.1\StringsAndObjects.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\StringsAndObjects\bin\Debug\netcoreapp2.1\StringsAndObjects.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\StringsAndObjects\bin\Debug\netcoreapp2.1\StringsAndObjects.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\StringsAndObjects\bin\Debug\netcoreapp2.1\StringsAndObjects.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\StringsAndObjects\bin\Debug\netcoreapp2.1\StringsAndObjects.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\StringsAndObjects\obj\Debug\netcoreapp2.1\StringsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\StringsAndObjects\obj\Debug\netcoreapp2.1\StringsAndObjects.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\StringsAndObjects\obj\Debug\netcoreapp2.1\StringsAndObjects.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\StringsAndObjects\obj\Debug\netcoreapp2.1\StringsAndObjects.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\StringsAndObjects\obj\Debug\netcoreapp2.1\StringsAndObjects.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\TheaThePhotographer\bin\Debug\netcoreapp2.1\TheaThePhotographer.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\TheaThePhotographer\bin\Debug\netcoreapp2.1\TheaThePhotographer.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\TheaThePhotographer\bin\Debug\netcoreapp2.1\TheaThePhotographer.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\TheaThePhotographer\bin\Debug\netcoreapp2.1\TheaThePhotographer.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\TheaThePhotographer\bin\Debug\netcoreapp2.1\TheaThePhotographer.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\TheaThePhotographer\obj\Debug\netcoreapp2.1\TheaThePhotographer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\TheaThePhotographer\obj\Debug\netcoreapp2.1\TheaThePhotographer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\TheaThePhotographer\obj\Debug\netcoreapp2.1\TheaThePhotographer.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\TheaThePhotographer\obj\Debug\netcoreapp2.1\TheaThePhotographer.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\TheaThePhotographer\obj\Debug\netcoreapp2.1\TheaThePhotographer.pdb

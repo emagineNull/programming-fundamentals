@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\PracticeFloatingPointNumbers\obj\Debug\netcoreapp2.1\PracticeFloatingPointNumbers.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\PracticeFloatingPointNumbers\obj\Debug\netcoreapp2.1\PracticeFloatingPointNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\PracticeFloatingPointNumbers\obj\Debug\netcoreapp2.1\PracticeFloatingPointNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\PracticeFloatingPointNumbers\obj\Debug\netcoreapp2.1\PracticeFloatingPointNumbers.AssemblyInfo.cs

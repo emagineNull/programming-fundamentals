@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\BooleanVariable\bin\Debug\netcoreapp2.1\BooleanVariable.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\BooleanVariable\bin\Debug\netcoreapp2.1\BooleanVariable.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\BooleanVariable\bin\Debug\netcoreapp2.1\BooleanVariable.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\BooleanVariable\bin\Debug\netcoreapp2.1\BooleanVariable.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\BooleanVariable\bin\Debug\netcoreapp2.1\BooleanVariable.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\BooleanVariable\obj\Debug\netcoreapp2.1\BooleanVariable.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\BooleanVariable\obj\Debug\netcoreapp2.1\BooleanVariable.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\BooleanVariable\obj\Debug\netcoreapp2.1\BooleanVariable.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\BooleanVariable\obj\Debug\netcoreapp2.1\BooleanVariable.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesExercise\BooleanVariable\obj\Debug\netcoreapp2.1\BooleanVariable.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\Hotel\obj\Debug\netcoreapp2.1\Hotel.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\Hotel\obj\Debug\netcoreapp2.1\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\Hotel\obj\Debug\netcoreapp2.1\Hotel.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\Hotel\obj\Debug\netcoreapp2.1\Hotel.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\Hotel\bin\Debug\netcoreapp2.1\Hotel.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\Hotel\bin\Debug\netcoreapp2.1\Hotel.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\Hotel\bin\Debug\netcoreapp2.1\Hotel.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\Hotel\bin\Debug\netcoreapp2.1\Hotel.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\Hotel\bin\Debug\netcoreapp2.1\Hotel.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\Hotel\obj\Debug\netcoreapp2.1\Hotel.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\Hotel\obj\Debug\netcoreapp2.1\Hotel.pdb

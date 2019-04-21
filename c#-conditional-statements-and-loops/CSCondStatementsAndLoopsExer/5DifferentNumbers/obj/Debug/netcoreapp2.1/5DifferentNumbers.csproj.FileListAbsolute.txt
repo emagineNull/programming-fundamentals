@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\5DifferentNumbers\bin\Debug\netcoreapp2.1\5DifferentNumbers.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\5DifferentNumbers\bin\Debug\netcoreapp2.1\5DifferentNumbers.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\5DifferentNumbers\bin\Debug\netcoreapp2.1\5DifferentNumbers.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\5DifferentNumbers\bin\Debug\netcoreapp2.1\5DifferentNumbers.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\5DifferentNumbers\bin\Debug\netcoreapp2.1\5DifferentNumbers.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\5DifferentNumbers\obj\Debug\netcoreapp2.1\5DifferentNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\5DifferentNumbers\obj\Debug\netcoreapp2.1\5DifferentNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\5DifferentNumbers\obj\Debug\netcoreapp2.1\5DifferentNumbers.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\5DifferentNumbers\obj\Debug\netcoreapp2.1\5DifferentNumbers.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\5DifferentNumbers\obj\Debug\netcoreapp2.1\5DifferentNumbers.pdb

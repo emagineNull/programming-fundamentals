@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\CakeIngredients\bin\Debug\netcoreapp2.1\CakeIngredients.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\CakeIngredients\bin\Debug\netcoreapp2.1\CakeIngredients.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\CakeIngredients\bin\Debug\netcoreapp2.1\CakeIngredients.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\CakeIngredients\bin\Debug\netcoreapp2.1\CakeIngredients.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\CakeIngredients\bin\Debug\netcoreapp2.1\CakeIngredients.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\CakeIngredients\obj\Debug\netcoreapp2.1\CakeIngredients.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\CakeIngredients\obj\Debug\netcoreapp2.1\CakeIngredients.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\CakeIngredients\obj\Debug\netcoreapp2.1\CakeIngredients.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\CakeIngredients\obj\Debug\netcoreapp2.1\CakeIngredients.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\CakeIngredients\obj\Debug\netcoreapp2.1\CakeIngredients.pdb

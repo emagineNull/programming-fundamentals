@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\MagicLetter\bin\Debug\netcoreapp2.1\MagicLetter.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\MagicLetter\bin\Debug\netcoreapp2.1\MagicLetter.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\MagicLetter\bin\Debug\netcoreapp2.1\MagicLetter.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\MagicLetter\bin\Debug\netcoreapp2.1\MagicLetter.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\MagicLetter\bin\Debug\netcoreapp2.1\MagicLetter.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\MagicLetter\obj\Debug\netcoreapp2.1\MagicLetter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\MagicLetter\obj\Debug\netcoreapp2.1\MagicLetter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\MagicLetter\obj\Debug\netcoreapp2.1\MagicLetter.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\MagicLetter\obj\Debug\netcoreapp2.1\MagicLetter.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\MagicLetter\obj\Debug\netcoreapp2.1\MagicLetter.pdb

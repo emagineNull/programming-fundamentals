@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\NeighbourWars\bin\Debug\netcoreapp2.1\NeighbourWars.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\NeighbourWars\bin\Debug\netcoreapp2.1\NeighbourWars.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\NeighbourWars\bin\Debug\netcoreapp2.1\NeighbourWars.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\NeighbourWars\bin\Debug\netcoreapp2.1\NeighbourWars.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\NeighbourWars\bin\Debug\netcoreapp2.1\NeighbourWars.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\NeighbourWars\obj\Debug\netcoreapp2.1\NeighbourWars.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\NeighbourWars\obj\Debug\netcoreapp2.1\NeighbourWars.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\NeighbourWars\obj\Debug\netcoreapp2.1\NeighbourWars.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\NeighbourWars\obj\Debug\netcoreapp2.1\NeighbourWars.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\NeighbourWars\obj\Debug\netcoreapp2.1\NeighbourWars.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\NeighbourWars\obj\Debug\netcoreapp2.1\NeighbourWars.pdb

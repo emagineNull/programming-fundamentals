@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\ChooseADrink\bin\Debug\netcoreapp2.1\ChooseADrink.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\ChooseADrink\bin\Debug\netcoreapp2.1\ChooseADrink.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\ChooseADrink\bin\Debug\netcoreapp2.1\ChooseADrink.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\ChooseADrink\bin\Debug\netcoreapp2.1\ChooseADrink.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\ChooseADrink\bin\Debug\netcoreapp2.1\ChooseADrink.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\ChooseADrink\obj\Debug\netcoreapp2.1\ChooseADrink.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\ChooseADrink\obj\Debug\netcoreapp2.1\ChooseADrink.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\ChooseADrink\obj\Debug\netcoreapp2.1\ChooseADrink.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\ChooseADrink\obj\Debug\netcoreapp2.1\ChooseADrink.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\ChooseADrink\obj\Debug\netcoreapp2.1\ChooseADrink.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\ChooseADrink\obj\Debug\netcoreapp2.1\ChooseADrink.pdb

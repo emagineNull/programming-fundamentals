@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\RestaurantDiscount\bin\Debug\netcoreapp2.1\RestaurantDiscount.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\RestaurantDiscount\bin\Debug\netcoreapp2.1\RestaurantDiscount.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\RestaurantDiscount\bin\Debug\netcoreapp2.1\RestaurantDiscount.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\RestaurantDiscount\bin\Debug\netcoreapp2.1\RestaurantDiscount.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\RestaurantDiscount\bin\Debug\netcoreapp2.1\RestaurantDiscount.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\RestaurantDiscount\obj\Debug\netcoreapp2.1\RestaurantDiscount.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\RestaurantDiscount\obj\Debug\netcoreapp2.1\RestaurantDiscount.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\RestaurantDiscount\obj\Debug\netcoreapp2.1\RestaurantDiscount.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\RestaurantDiscount\obj\Debug\netcoreapp2.1\RestaurantDiscount.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\RestaurantDiscount\obj\Debug\netcoreapp2.1\RestaurantDiscount.pdb

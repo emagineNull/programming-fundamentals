@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\IntervalOfNumbers\bin\Debug\netcoreapp2.1\IntervalOfNumbers.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\IntervalOfNumbers\bin\Debug\netcoreapp2.1\IntervalOfNumbers.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\IntervalOfNumbers\bin\Debug\netcoreapp2.1\IntervalOfNumbers.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\IntervalOfNumbers\bin\Debug\netcoreapp2.1\IntervalOfNumbers.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\IntervalOfNumbers\bin\Debug\netcoreapp2.1\IntervalOfNumbers.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\IntervalOfNumbers\obj\Debug\netcoreapp2.1\IntervalOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\IntervalOfNumbers\obj\Debug\netcoreapp2.1\IntervalOfNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\IntervalOfNumbers\obj\Debug\netcoreapp2.1\IntervalOfNumbers.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\IntervalOfNumbers\obj\Debug\netcoreapp2.1\IntervalOfNumbers.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\IntervalOfNumbers\obj\Debug\netcoreapp2.1\IntervalOfNumbers.pdb

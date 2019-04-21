@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\CountTheIntegers\bin\Debug\netcoreapp2.1\CountTheIntegers.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\CountTheIntegers\bin\Debug\netcoreapp2.1\CountTheIntegers.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\CountTheIntegers\bin\Debug\netcoreapp2.1\CountTheIntegers.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\CountTheIntegers\bin\Debug\netcoreapp2.1\CountTheIntegers.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\CountTheIntegers\bin\Debug\netcoreapp2.1\CountTheIntegers.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\CountTheIntegers\obj\Debug\netcoreapp2.1\CountTheIntegers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\CountTheIntegers\obj\Debug\netcoreapp2.1\CountTheIntegers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\CountTheIntegers\obj\Debug\netcoreapp2.1\CountTheIntegers.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\CountTheIntegers\obj\Debug\netcoreapp2.1\CountTheIntegers.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\C# Conditional Statements and Loops\CSCondStatementsAndLoopsExer\CountTheIntegers\obj\Debug\netcoreapp2.1\CountTheIntegers.pdb

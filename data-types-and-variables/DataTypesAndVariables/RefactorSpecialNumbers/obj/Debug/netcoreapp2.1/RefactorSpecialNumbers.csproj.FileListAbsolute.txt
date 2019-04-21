@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp2.1\RefactorSpecialNumbers.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp2.1\RefactorSpecialNumbers.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp2.1\RefactorSpecialNumbers.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp2.1\RefactorSpecialNumbers.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\RefactorSpecialNumbers\bin\Debug\netcoreapp2.1\RefactorSpecialNumbers.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp2.1\RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp2.1\RefactorSpecialNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp2.1\RefactorSpecialNumbers.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp2.1\RefactorSpecialNumbers.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp2.1\RefactorSpecialNumbers.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\RefactorSpecialNumbers\obj\Debug\netcoreapp2.1\RefactorSpecialNumbers.csprojAssemblyReference.cache

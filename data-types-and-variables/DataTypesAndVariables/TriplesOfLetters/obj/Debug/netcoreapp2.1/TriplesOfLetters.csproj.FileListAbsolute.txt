@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\TriplesOfLetters\bin\Debug\netcoreapp2.1\TriplesOfLetters.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\TriplesOfLetters\bin\Debug\netcoreapp2.1\TriplesOfLetters.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\TriplesOfLetters\bin\Debug\netcoreapp2.1\TriplesOfLetters.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\TriplesOfLetters\bin\Debug\netcoreapp2.1\TriplesOfLetters.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\TriplesOfLetters\bin\Debug\netcoreapp2.1\TriplesOfLetters.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\TriplesOfLetters\obj\Debug\netcoreapp2.1\TriplesOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\TriplesOfLetters\obj\Debug\netcoreapp2.1\TriplesOfLetters.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\TriplesOfLetters\obj\Debug\netcoreapp2.1\TriplesOfLetters.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\TriplesOfLetters\obj\Debug\netcoreapp2.1\TriplesOfLetters.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariables\TriplesOfLetters\obj\Debug\netcoreapp2.1\TriplesOfLetters.pdb

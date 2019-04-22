@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BalancedBrackets\bin\Debug\netcoreapp2.1\BalancedBrackets.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BalancedBrackets\bin\Debug\netcoreapp2.1\BalancedBrackets.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BalancedBrackets\bin\Debug\netcoreapp2.1\BalancedBrackets.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BalancedBrackets\bin\Debug\netcoreapp2.1\BalancedBrackets.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BalancedBrackets\bin\Debug\netcoreapp2.1\BalancedBrackets.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BalancedBrackets\obj\Debug\netcoreapp2.1\BalancedBrackets.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BalancedBrackets\obj\Debug\netcoreapp2.1\BalancedBrackets.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BalancedBrackets\obj\Debug\netcoreapp2.1\BalancedBrackets.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BalancedBrackets\obj\Debug\netcoreapp2.1\BalancedBrackets.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BalancedBrackets\obj\Debug\netcoreapp2.1\BalancedBrackets.pdb

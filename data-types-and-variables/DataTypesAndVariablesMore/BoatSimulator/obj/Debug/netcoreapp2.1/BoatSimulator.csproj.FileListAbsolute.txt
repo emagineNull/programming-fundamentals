@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BoatSimulator\bin\Debug\netcoreapp2.1\BoatSimulator.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BoatSimulator\bin\Debug\netcoreapp2.1\BoatSimulator.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BoatSimulator\bin\Debug\netcoreapp2.1\BoatSimulator.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BoatSimulator\bin\Debug\netcoreapp2.1\BoatSimulator.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BoatSimulator\bin\Debug\netcoreapp2.1\BoatSimulator.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BoatSimulator\obj\Debug\netcoreapp2.1\BoatSimulator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BoatSimulator\obj\Debug\netcoreapp2.1\BoatSimulator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BoatSimulator\obj\Debug\netcoreapp2.1\BoatSimulator.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BoatSimulator\obj\Debug\netcoreapp2.1\BoatSimulator.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BoatSimulator\obj\Debug\netcoreapp2.1\BoatSimulator.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\HouseBuilder\bin\Debug\netcoreapp2.1\HouseBuilder.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\HouseBuilder\bin\Debug\netcoreapp2.1\HouseBuilder.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\HouseBuilder\bin\Debug\netcoreapp2.1\HouseBuilder.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\HouseBuilder\bin\Debug\netcoreapp2.1\HouseBuilder.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\HouseBuilder\bin\Debug\netcoreapp2.1\HouseBuilder.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\HouseBuilder\obj\Debug\netcoreapp2.1\HouseBuilder.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\HouseBuilder\obj\Debug\netcoreapp2.1\HouseBuilder.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\HouseBuilder\obj\Debug\netcoreapp2.1\HouseBuilder.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\HouseBuilder\obj\Debug\netcoreapp2.1\HouseBuilder.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\HouseBuilder\obj\Debug\netcoreapp2.1\HouseBuilder.pdb

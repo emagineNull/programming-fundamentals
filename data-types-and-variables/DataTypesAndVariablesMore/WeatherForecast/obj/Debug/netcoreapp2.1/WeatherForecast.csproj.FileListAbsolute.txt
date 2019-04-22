@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WeatherForecast\bin\Debug\netcoreapp2.1\WeatherForecast.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WeatherForecast\bin\Debug\netcoreapp2.1\WeatherForecast.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WeatherForecast\bin\Debug\netcoreapp2.1\WeatherForecast.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WeatherForecast\bin\Debug\netcoreapp2.1\WeatherForecast.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WeatherForecast\bin\Debug\netcoreapp2.1\WeatherForecast.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WeatherForecast\obj\Debug\netcoreapp2.1\WeatherForecast.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WeatherForecast\obj\Debug\netcoreapp2.1\WeatherForecast.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WeatherForecast\obj\Debug\netcoreapp2.1\WeatherForecast.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WeatherForecast\obj\Debug\netcoreapp2.1\WeatherForecast.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WeatherForecast\obj\Debug\netcoreapp2.1\WeatherForecast.pdb

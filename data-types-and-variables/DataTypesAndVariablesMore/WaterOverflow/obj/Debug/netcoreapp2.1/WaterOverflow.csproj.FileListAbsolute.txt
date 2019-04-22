@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WaterOverflow\bin\Debug\netcoreapp2.1\WaterOverflow.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WaterOverflow\bin\Debug\netcoreapp2.1\WaterOverflow.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WaterOverflow\bin\Debug\netcoreapp2.1\WaterOverflow.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WaterOverflow\bin\Debug\netcoreapp2.1\WaterOverflow.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WaterOverflow\bin\Debug\netcoreapp2.1\WaterOverflow.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WaterOverflow\obj\Debug\netcoreapp2.1\WaterOverflow.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WaterOverflow\obj\Debug\netcoreapp2.1\WaterOverflow.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WaterOverflow\obj\Debug\netcoreapp2.1\WaterOverflow.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WaterOverflow\obj\Debug\netcoreapp2.1\WaterOverflow.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WaterOverflow\obj\Debug\netcoreapp2.1\WaterOverflow.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\WaterOverflow\obj\Debug\netcoreapp2.1\WaterOverflow.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\CatchTheThief\bin\Debug\netcoreapp2.1\CatchTheThief.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\CatchTheThief\bin\Debug\netcoreapp2.1\CatchTheThief.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\CatchTheThief\bin\Debug\netcoreapp2.1\CatchTheThief.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\CatchTheThief\bin\Debug\netcoreapp2.1\CatchTheThief.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\CatchTheThief\bin\Debug\netcoreapp2.1\CatchTheThief.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\CatchTheThief\obj\Debug\netcoreapp2.1\CatchTheThief.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\CatchTheThief\obj\Debug\netcoreapp2.1\CatchTheThief.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\CatchTheThief\obj\Debug\netcoreapp2.1\CatchTheThief.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\CatchTheThief\obj\Debug\netcoreapp2.1\CatchTheThief.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\CatchTheThief\obj\Debug\netcoreapp2.1\CatchTheThief.pdb

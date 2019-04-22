@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BeerKegs\bin\Debug\netcoreapp2.1\BeerKegs.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BeerKegs\bin\Debug\netcoreapp2.1\BeerKegs.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BeerKegs\bin\Debug\netcoreapp2.1\BeerKegs.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BeerKegs\bin\Debug\netcoreapp2.1\BeerKegs.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BeerKegs\bin\Debug\netcoreapp2.1\BeerKegs.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BeerKegs\obj\Debug\netcoreapp2.1\BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BeerKegs\obj\Debug\netcoreapp2.1\BeerKegs.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BeerKegs\obj\Debug\netcoreapp2.1\BeerKegs.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BeerKegs\obj\Debug\netcoreapp2.1\BeerKegs.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\BeerKegs\obj\Debug\netcoreapp2.1\BeerKegs.pdb

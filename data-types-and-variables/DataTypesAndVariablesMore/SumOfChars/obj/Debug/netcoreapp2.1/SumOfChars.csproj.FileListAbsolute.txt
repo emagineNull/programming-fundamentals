@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\SumOfChars\bin\Debug\netcoreapp2.1\SumOfChars.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\SumOfChars\bin\Debug\netcoreapp2.1\SumOfChars.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\SumOfChars\bin\Debug\netcoreapp2.1\SumOfChars.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\SumOfChars\bin\Debug\netcoreapp2.1\SumOfChars.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\SumOfChars\bin\Debug\netcoreapp2.1\SumOfChars.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\SumOfChars\obj\Debug\netcoreapp2.1\SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\SumOfChars\obj\Debug\netcoreapp2.1\SumOfChars.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\SumOfChars\obj\Debug\netcoreapp2.1\SumOfChars.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\SumOfChars\obj\Debug\netcoreapp2.1\SumOfChars.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\SumOfChars\obj\Debug\netcoreapp2.1\SumOfChars.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\MakeAWord\bin\Debug\netcoreapp2.1\MakeAWord.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\MakeAWord\bin\Debug\netcoreapp2.1\MakeAWord.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\MakeAWord\bin\Debug\netcoreapp2.1\MakeAWord.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\MakeAWord\bin\Debug\netcoreapp2.1\MakeAWord.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\MakeAWord\bin\Debug\netcoreapp2.1\MakeAWord.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\MakeAWord\obj\Debug\netcoreapp2.1\MakeAWord.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\MakeAWord\obj\Debug\netcoreapp2.1\MakeAWord.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\MakeAWord\obj\Debug\netcoreapp2.1\MakeAWord.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\MakeAWord\obj\Debug\netcoreapp2.1\MakeAWord.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\MakeAWord\obj\Debug\netcoreapp2.1\MakeAWord.pdb

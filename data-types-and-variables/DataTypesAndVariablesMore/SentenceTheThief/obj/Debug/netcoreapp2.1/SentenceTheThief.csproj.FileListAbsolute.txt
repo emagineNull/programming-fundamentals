@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\SentenceTheThief\bin\Debug\netcoreapp2.1\SentenceTheThief.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\SentenceTheThief\bin\Debug\netcoreapp2.1\SentenceTheThief.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\SentenceTheThief\bin\Debug\netcoreapp2.1\SentenceTheThief.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\SentenceTheThief\bin\Debug\netcoreapp2.1\SentenceTheThief.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\SentenceTheThief\bin\Debug\netcoreapp2.1\SentenceTheThief.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\SentenceTheThief\obj\Debug\netcoreapp2.1\SentenceTheThief.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\SentenceTheThief\obj\Debug\netcoreapp2.1\SentenceTheThief.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\SentenceTheThief\obj\Debug\netcoreapp2.1\SentenceTheThief.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\SentenceTheThief\obj\Debug\netcoreapp2.1\SentenceTheThief.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\DataTypesAndVariablesMore\SentenceTheThief\obj\Debug\netcoreapp2.1\SentenceTheThief.pdb

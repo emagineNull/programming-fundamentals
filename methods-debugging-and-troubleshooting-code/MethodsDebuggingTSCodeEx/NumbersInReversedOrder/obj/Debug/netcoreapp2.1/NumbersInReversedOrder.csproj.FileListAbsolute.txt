@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\NumbersInReversedOrder\bin\Debug\netcoreapp2.1\NumbersInReversedOrder.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\NumbersInReversedOrder\bin\Debug\netcoreapp2.1\NumbersInReversedOrder.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\NumbersInReversedOrder\bin\Debug\netcoreapp2.1\NumbersInReversedOrder.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\NumbersInReversedOrder\bin\Debug\netcoreapp2.1\NumbersInReversedOrder.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\NumbersInReversedOrder\bin\Debug\netcoreapp2.1\NumbersInReversedOrder.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\NumbersInReversedOrder\obj\Debug\netcoreapp2.1\NumbersInReversedOrder.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\NumbersInReversedOrder\obj\Debug\netcoreapp2.1\NumbersInReversedOrder.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\NumbersInReversedOrder\obj\Debug\netcoreapp2.1\NumbersInReversedOrder.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\NumbersInReversedOrder\obj\Debug\netcoreapp2.1\NumbersInReversedOrder.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\NumbersInReversedOrder\obj\Debug\netcoreapp2.1\NumbersInReversedOrder.pdb

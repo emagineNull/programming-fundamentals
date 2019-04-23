@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\HelloName\bin\Debug\netcoreapp2.1\HelloName.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\HelloName\bin\Debug\netcoreapp2.1\HelloName.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\HelloName\bin\Debug\netcoreapp2.1\HelloName.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\HelloName\bin\Debug\netcoreapp2.1\HelloName.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\HelloName\bin\Debug\netcoreapp2.1\HelloName.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\HelloName\obj\Debug\netcoreapp2.1\HelloName.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\HelloName\obj\Debug\netcoreapp2.1\HelloName.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\HelloName\obj\Debug\netcoreapp2.1\HelloName.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\HelloName\obj\Debug\netcoreapp2.1\HelloName.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\HelloName\obj\Debug\netcoreapp2.1\HelloName.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\HelloName\obj\Debug\netcoreapp2.1\HelloName.pdb

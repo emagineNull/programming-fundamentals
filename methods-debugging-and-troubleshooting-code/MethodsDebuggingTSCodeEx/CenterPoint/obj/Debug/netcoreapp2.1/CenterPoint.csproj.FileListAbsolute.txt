@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\CenterPoint\bin\Debug\netcoreapp2.1\CenterPoint.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\CenterPoint\bin\Debug\netcoreapp2.1\CenterPoint.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\CenterPoint\bin\Debug\netcoreapp2.1\CenterPoint.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\CenterPoint\bin\Debug\netcoreapp2.1\CenterPoint.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\CenterPoint\bin\Debug\netcoreapp2.1\CenterPoint.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\CenterPoint\obj\Debug\netcoreapp2.1\CenterPoint.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\CenterPoint\obj\Debug\netcoreapp2.1\CenterPoint.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\CenterPoint\obj\Debug\netcoreapp2.1\CenterPoint.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\CenterPoint\obj\Debug\netcoreapp2.1\CenterPoint.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\CenterPoint\obj\Debug\netcoreapp2.1\CenterPoint.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\CenterPoint\obj\Debug\netcoreapp2.1\CenterPoint.pdb

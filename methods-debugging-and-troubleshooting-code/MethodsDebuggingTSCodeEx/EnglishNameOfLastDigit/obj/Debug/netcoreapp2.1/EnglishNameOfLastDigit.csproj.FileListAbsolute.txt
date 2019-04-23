@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\EnglishNameOfLastDigit\obj\Debug\netcoreapp2.1\EnglishNameOfLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\EnglishNameOfLastDigit\obj\Debug\netcoreapp2.1\EnglishNameOfLastDigit.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\EnglishNameOfLastDigit\obj\Debug\netcoreapp2.1\EnglishNameOfLastDigit.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\EnglishNameOfLastDigit\bin\Debug\netcoreapp2.1\EnglishNameOfLastDigit.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\EnglishNameOfLastDigit\bin\Debug\netcoreapp2.1\EnglishNameOfLastDigit.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\EnglishNameOfLastDigit\bin\Debug\netcoreapp2.1\EnglishNameOfLastDigit.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\EnglishNameOfLastDigit\bin\Debug\netcoreapp2.1\EnglishNameOfLastDigit.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\EnglishNameOfLastDigit\bin\Debug\netcoreapp2.1\EnglishNameOfLastDigit.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\EnglishNameOfLastDigit\obj\Debug\netcoreapp2.1\EnglishNameOfLastDigit.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\EnglishNameOfLastDigit\obj\Debug\netcoreapp2.1\EnglishNameOfLastDigit.pdb

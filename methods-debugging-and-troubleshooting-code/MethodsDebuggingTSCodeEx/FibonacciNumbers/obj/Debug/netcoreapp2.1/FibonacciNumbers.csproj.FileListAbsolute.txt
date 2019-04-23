@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\FibonacciNumbers\bin\Debug\netcoreapp2.1\FibonacciNumbers.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\FibonacciNumbers\bin\Debug\netcoreapp2.1\FibonacciNumbers.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\FibonacciNumbers\bin\Debug\netcoreapp2.1\FibonacciNumbers.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\FibonacciNumbers\bin\Debug\netcoreapp2.1\FibonacciNumbers.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\FibonacciNumbers\bin\Debug\netcoreapp2.1\FibonacciNumbers.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\FibonacciNumbers\obj\Debug\netcoreapp2.1\FibonacciNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\FibonacciNumbers\obj\Debug\netcoreapp2.1\FibonacciNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\FibonacciNumbers\obj\Debug\netcoreapp2.1\FibonacciNumbers.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\FibonacciNumbers\obj\Debug\netcoreapp2.1\FibonacciNumbers.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\FibonacciNumbers\obj\Debug\netcoreapp2.1\FibonacciNumbers.pdb

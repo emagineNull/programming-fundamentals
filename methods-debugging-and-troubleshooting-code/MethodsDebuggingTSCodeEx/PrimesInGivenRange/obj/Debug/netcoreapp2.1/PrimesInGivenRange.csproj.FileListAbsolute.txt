@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\PrimesInGivenRange\bin\Debug\netcoreapp2.1\PrimesInGivenRange.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\PrimesInGivenRange\bin\Debug\netcoreapp2.1\PrimesInGivenRange.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\PrimesInGivenRange\bin\Debug\netcoreapp2.1\PrimesInGivenRange.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\PrimesInGivenRange\bin\Debug\netcoreapp2.1\PrimesInGivenRange.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\PrimesInGivenRange\bin\Debug\netcoreapp2.1\PrimesInGivenRange.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\PrimesInGivenRange\obj\Debug\netcoreapp2.1\PrimesInGivenRange.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\PrimesInGivenRange\obj\Debug\netcoreapp2.1\PrimesInGivenRange.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\PrimesInGivenRange\obj\Debug\netcoreapp2.1\PrimesInGivenRange.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\PrimesInGivenRange\obj\Debug\netcoreapp2.1\PrimesInGivenRange.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\PrimesInGivenRange\obj\Debug\netcoreapp2.1\PrimesInGivenRange.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\PrimesInGivenRange\obj\Debug\netcoreapp2.1\PrimesInGivenRange.pdb

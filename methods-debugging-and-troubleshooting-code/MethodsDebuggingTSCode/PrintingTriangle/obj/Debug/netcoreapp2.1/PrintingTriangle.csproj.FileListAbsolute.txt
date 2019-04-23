@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\PrintingTriangle\bin\Debug\netcoreapp2.1\PrintingTriangle.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\PrintingTriangle\bin\Debug\netcoreapp2.1\PrintingTriangle.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\PrintingTriangle\bin\Debug\netcoreapp2.1\PrintingTriangle.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\PrintingTriangle\bin\Debug\netcoreapp2.1\PrintingTriangle.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\PrintingTriangle\bin\Debug\netcoreapp2.1\PrintingTriangle.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\PrintingTriangle\obj\Debug\netcoreapp2.1\PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\PrintingTriangle\obj\Debug\netcoreapp2.1\PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\PrintingTriangle\obj\Debug\netcoreapp2.1\PrintingTriangle.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\PrintingTriangle\obj\Debug\netcoreapp2.1\PrintingTriangle.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\PrintingTriangle\obj\Debug\netcoreapp2.1\PrintingTriangle.pdb

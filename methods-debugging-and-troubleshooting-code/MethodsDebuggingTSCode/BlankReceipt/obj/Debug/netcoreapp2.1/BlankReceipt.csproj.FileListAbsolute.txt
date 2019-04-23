@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\BlankReceipt\bin\Debug\netcoreapp2.1\BlankReceipt.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\BlankReceipt\bin\Debug\netcoreapp2.1\BlankReceipt.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\BlankReceipt\bin\Debug\netcoreapp2.1\BlankReceipt.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\BlankReceipt\bin\Debug\netcoreapp2.1\BlankReceipt.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\BlankReceipt\bin\Debug\netcoreapp2.1\BlankReceipt.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\BlankReceipt\obj\Debug\netcoreapp2.1\BlankReceipt.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\BlankReceipt\obj\Debug\netcoreapp2.1\BlankReceipt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\BlankReceipt\obj\Debug\netcoreapp2.1\BlankReceipt.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\BlankReceipt\obj\Debug\netcoreapp2.1\BlankReceipt.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\BlankReceipt\obj\Debug\netcoreapp2.1\BlankReceipt.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\BlankReceipt\obj\Debug\netcoreapp2.1\BlankReceipt.pdb

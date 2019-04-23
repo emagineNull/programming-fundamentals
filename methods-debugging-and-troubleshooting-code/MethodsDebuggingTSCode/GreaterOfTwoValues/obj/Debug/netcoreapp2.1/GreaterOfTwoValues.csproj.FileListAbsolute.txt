@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\GreaterOfTwoValues\obj\Debug\netcoreapp2.1\GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\GreaterOfTwoValues\obj\Debug\netcoreapp2.1\GreaterOfTwoValues.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\GreaterOfTwoValues\obj\Debug\netcoreapp2.1\GreaterOfTwoValues.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\GreaterOfTwoValues\bin\Debug\netcoreapp2.1\GreaterOfTwoValues.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\GreaterOfTwoValues\bin\Debug\netcoreapp2.1\GreaterOfTwoValues.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\GreaterOfTwoValues\bin\Debug\netcoreapp2.1\GreaterOfTwoValues.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\GreaterOfTwoValues\bin\Debug\netcoreapp2.1\GreaterOfTwoValues.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\GreaterOfTwoValues\bin\Debug\netcoreapp2.1\GreaterOfTwoValues.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\GreaterOfTwoValues\obj\Debug\netcoreapp2.1\GreaterOfTwoValues.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\GreaterOfTwoValues\obj\Debug\netcoreapp2.1\GreaterOfTwoValues.pdb

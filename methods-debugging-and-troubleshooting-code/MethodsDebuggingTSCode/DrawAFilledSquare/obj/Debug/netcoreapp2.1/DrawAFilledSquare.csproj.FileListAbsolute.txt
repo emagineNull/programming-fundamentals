@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\DrawAFilledSquare\bin\Debug\netcoreapp2.1\DrawAFilledSquare.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\DrawAFilledSquare\bin\Debug\netcoreapp2.1\DrawAFilledSquare.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\DrawAFilledSquare\bin\Debug\netcoreapp2.1\DrawAFilledSquare.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\DrawAFilledSquare\bin\Debug\netcoreapp2.1\DrawAFilledSquare.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\DrawAFilledSquare\bin\Debug\netcoreapp2.1\DrawAFilledSquare.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\DrawAFilledSquare\obj\Debug\netcoreapp2.1\DrawAFilledSquare.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\DrawAFilledSquare\obj\Debug\netcoreapp2.1\DrawAFilledSquare.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\DrawAFilledSquare\obj\Debug\netcoreapp2.1\DrawAFilledSquare.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\DrawAFilledSquare\obj\Debug\netcoreapp2.1\DrawAFilledSquare.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\DrawAFilledSquare\obj\Debug\netcoreapp2.1\DrawAFilledSquare.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCode\DrawAFilledSquare\obj\Debug\netcoreapp2.1\DrawAFilledSquare.pdb

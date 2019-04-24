@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\SequenceOfCommands\bin\Debug\netcoreapp2.1\SequenceOfCommands.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\SequenceOfCommands\bin\Debug\netcoreapp2.1\SequenceOfCommands.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\SequenceOfCommands\bin\Debug\netcoreapp2.1\SequenceOfCommands.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\SequenceOfCommands\bin\Debug\netcoreapp2.1\SequenceOfCommands.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\SequenceOfCommands\bin\Debug\netcoreapp2.1\SequenceOfCommands.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\SequenceOfCommands\obj\Debug\netcoreapp2.1\SequenceOfCommands.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\SequenceOfCommands\obj\Debug\netcoreapp2.1\SequenceOfCommands.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\SequenceOfCommands\obj\Debug\netcoreapp2.1\SequenceOfCommands.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\SequenceOfCommands\obj\Debug\netcoreapp2.1\SequenceOfCommands.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\SequenceOfCommands\obj\Debug\netcoreapp2.1\SequenceOfCommands.pdb

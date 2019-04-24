@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExerciseSubstring\bin\Debug\netcoreapp2.1\DebuggingExerciseSubstring.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExerciseSubstring\bin\Debug\netcoreapp2.1\DebuggingExerciseSubstring.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExerciseSubstring\bin\Debug\netcoreapp2.1\DebuggingExerciseSubstring.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExerciseSubstring\bin\Debug\netcoreapp2.1\DebuggingExerciseSubstring.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExerciseSubstring\bin\Debug\netcoreapp2.1\DebuggingExerciseSubstring.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExerciseSubstring\obj\Debug\netcoreapp2.1\DebuggingExerciseSubstring.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExerciseSubstring\obj\Debug\netcoreapp2.1\DebuggingExerciseSubstring.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExerciseSubstring\obj\Debug\netcoreapp2.1\DebuggingExerciseSubstring.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExerciseSubstring\obj\Debug\netcoreapp2.1\DebuggingExerciseSubstring.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExerciseSubstring\obj\Debug\netcoreapp2.1\DebuggingExerciseSubstring.pdb

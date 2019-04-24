@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExInstructionSet\obj\Debug\netcoreapp2.1\DebuggingExInstructionSet.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExInstructionSet\obj\Debug\netcoreapp2.1\DebuggingExInstructionSet.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExInstructionSet\obj\Debug\netcoreapp2.1\DebuggingExInstructionSet.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExInstructionSet\bin\Debug\netcoreapp2.1\DebuggingExInstructionSet.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExInstructionSet\bin\Debug\netcoreapp2.1\DebuggingExInstructionSet.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExInstructionSet\bin\Debug\netcoreapp2.1\DebuggingExInstructionSet.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExInstructionSet\bin\Debug\netcoreapp2.1\DebuggingExInstructionSet.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExInstructionSet\bin\Debug\netcoreapp2.1\DebuggingExInstructionSet.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExInstructionSet\obj\Debug\netcoreapp2.1\DebuggingExInstructionSet.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExInstructionSet\obj\Debug\netcoreapp2.1\DebuggingExInstructionSet.pdb

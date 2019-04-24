@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExerBePositive\obj\Debug\netcoreapp2.1\DebuggingExerBePositive.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExerBePositive\obj\Debug\netcoreapp2.1\DebuggingExerBePositive.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExerBePositive\obj\Debug\netcoreapp2.1\DebuggingExerBePositive.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExerBePositive\bin\Debug\netcoreapp2.1\DebuggingExerBePositive.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExerBePositive\bin\Debug\netcoreapp2.1\DebuggingExerBePositive.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExerBePositive\bin\Debug\netcoreapp2.1\DebuggingExerBePositive.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExerBePositive\bin\Debug\netcoreapp2.1\DebuggingExerBePositive.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExerBePositive\bin\Debug\netcoreapp2.1\DebuggingExerBePositive.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExerBePositive\obj\Debug\netcoreapp2.1\DebuggingExerBePositive.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\DebuggingExerBePositive\obj\Debug\netcoreapp2.1\DebuggingExerBePositive.pdb

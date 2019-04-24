@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\GeometryCalculator\bin\Debug\netcoreapp2.1\GeometryCalculator.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\GeometryCalculator\bin\Debug\netcoreapp2.1\GeometryCalculator.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\GeometryCalculator\bin\Debug\netcoreapp2.1\GeometryCalculator.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\GeometryCalculator\bin\Debug\netcoreapp2.1\GeometryCalculator.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\GeometryCalculator\bin\Debug\netcoreapp2.1\GeometryCalculator.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\GeometryCalculator\obj\Debug\netcoreapp2.1\GeometryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\GeometryCalculator\obj\Debug\netcoreapp2.1\GeometryCalculator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\GeometryCalculator\obj\Debug\netcoreapp2.1\GeometryCalculator.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\GeometryCalculator\obj\Debug\netcoreapp2.1\GeometryCalculator.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\GeometryCalculator\obj\Debug\netcoreapp2.1\GeometryCalculator.pdb

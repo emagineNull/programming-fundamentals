@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\FactorialTrailingZeroes\obj\Debug\netcoreapp2.1\FactorialTrailingZeroes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\FactorialTrailingZeroes\obj\Debug\netcoreapp2.1\FactorialTrailingZeroes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\FactorialTrailingZeroes\obj\Debug\netcoreapp2.1\FactorialTrailingZeroes.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\FactorialTrailingZeroes\bin\Debug\netcoreapp2.1\FactorialTrailingZeroes.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\FactorialTrailingZeroes\bin\Debug\netcoreapp2.1\FactorialTrailingZeroes.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\FactorialTrailingZeroes\bin\Debug\netcoreapp2.1\FactorialTrailingZeroes.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\FactorialTrailingZeroes\bin\Debug\netcoreapp2.1\FactorialTrailingZeroes.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\FactorialTrailingZeroes\bin\Debug\netcoreapp2.1\FactorialTrailingZeroes.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\FactorialTrailingZeroes\obj\Debug\netcoreapp2.1\FactorialTrailingZeroes.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\MethodsDebuggingTSCodeEx\FactorialTrailingZeroes\obj\Debug\netcoreapp2.1\FactorialTrailingZeroes.pdb

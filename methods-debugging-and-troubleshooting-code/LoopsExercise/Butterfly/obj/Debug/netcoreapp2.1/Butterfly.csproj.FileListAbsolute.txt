@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Butterfly\obj\Debug\netcoreapp2.1\Butterfly.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Butterfly\obj\Debug\netcoreapp2.1\Butterfly.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Butterfly\obj\Debug\netcoreapp2.1\Butterfly.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Butterfly\bin\Debug\netcoreapp2.1\Butterfly.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Butterfly\bin\Debug\netcoreapp2.1\Butterfly.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Butterfly\bin\Debug\netcoreapp2.1\Butterfly.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Butterfly\bin\Debug\netcoreapp2.1\Butterfly.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Butterfly\bin\Debug\netcoreapp2.1\Butterfly.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Butterfly\obj\Debug\netcoreapp2.1\Butterfly.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Butterfly\obj\Debug\netcoreapp2.1\Butterfly.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Butterfly\obj\Debug\netcoreapp2.1\Butterfly.csprojAssemblyReference.cache

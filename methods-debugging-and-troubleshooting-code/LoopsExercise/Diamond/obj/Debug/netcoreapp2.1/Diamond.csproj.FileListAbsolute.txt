@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Diamond\bin\Debug\netcoreapp2.1\Diamond.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Diamond\bin\Debug\netcoreapp2.1\Diamond.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Diamond\bin\Debug\netcoreapp2.1\Diamond.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Diamond\bin\Debug\netcoreapp2.1\Diamond.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Diamond\bin\Debug\netcoreapp2.1\Diamond.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Diamond\obj\Debug\netcoreapp2.1\Diamond.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Diamond\obj\Debug\netcoreapp2.1\Diamond.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Diamond\obj\Debug\netcoreapp2.1\Diamond.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Diamond\obj\Debug\netcoreapp2.1\Diamond.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Diamond\obj\Debug\netcoreapp2.1\Diamond.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\Diamond\obj\Debug\netcoreapp2.1\Diamond.pdb

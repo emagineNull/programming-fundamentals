@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\NumberTable\bin\Debug\netcoreapp2.1\NumberTable.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\NumberTable\bin\Debug\netcoreapp2.1\NumberTable.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\NumberTable\bin\Debug\netcoreapp2.1\NumberTable.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\NumberTable\bin\Debug\netcoreapp2.1\NumberTable.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\NumberTable\bin\Debug\netcoreapp2.1\NumberTable.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\NumberTable\obj\Debug\netcoreapp2.1\NumberTable.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\NumberTable\obj\Debug\netcoreapp2.1\NumberTable.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\NumberTable\obj\Debug\netcoreapp2.1\NumberTable.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\NumberTable\obj\Debug\netcoreapp2.1\NumberTable.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\NumberTable\obj\Debug\netcoreapp2.1\NumberTable.pdb

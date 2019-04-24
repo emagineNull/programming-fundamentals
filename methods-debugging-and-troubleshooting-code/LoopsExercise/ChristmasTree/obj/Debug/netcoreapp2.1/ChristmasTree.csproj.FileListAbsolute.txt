@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\ChristmasTree\bin\Debug\netcoreapp2.1\ChristmasTree.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\ChristmasTree\bin\Debug\netcoreapp2.1\ChristmasTree.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\ChristmasTree\bin\Debug\netcoreapp2.1\ChristmasTree.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\ChristmasTree\bin\Debug\netcoreapp2.1\ChristmasTree.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\ChristmasTree\bin\Debug\netcoreapp2.1\ChristmasTree.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\ChristmasTree\obj\Debug\netcoreapp2.1\ChristmasTree.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\ChristmasTree\obj\Debug\netcoreapp2.1\ChristmasTree.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\ChristmasTree\obj\Debug\netcoreapp2.1\ChristmasTree.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\ChristmasTree\obj\Debug\netcoreapp2.1\ChristmasTree.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\ChristmasTree\obj\Debug\netcoreapp2.1\ChristmasTree.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\ChristmasTree\obj\Debug\netcoreapp2.1\ChristmasTree.pdb

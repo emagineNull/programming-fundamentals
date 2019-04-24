@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\GreatestCommonDivisor\bin\Debug\netcoreapp2.1\GreatestCommonDivisor.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\GreatestCommonDivisor\bin\Debug\netcoreapp2.1\GreatestCommonDivisor.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\GreatestCommonDivisor\bin\Debug\netcoreapp2.1\GreatestCommonDivisor.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\GreatestCommonDivisor\bin\Debug\netcoreapp2.1\GreatestCommonDivisor.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\GreatestCommonDivisor\bin\Debug\netcoreapp2.1\GreatestCommonDivisor.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\GreatestCommonDivisor\obj\Debug\netcoreapp2.1\GreatestCommonDivisor.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\GreatestCommonDivisor\obj\Debug\netcoreapp2.1\GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\GreatestCommonDivisor\obj\Debug\netcoreapp2.1\GreatestCommonDivisor.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\GreatestCommonDivisor\obj\Debug\netcoreapp2.1\GreatestCommonDivisor.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\GreatestCommonDivisor\obj\Debug\netcoreapp2.1\GreatestCommonDivisor.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Methods, Debugging and Troubleshooting Code\LoopsExercise\GreatestCommonDivisor\obj\Debug\netcoreapp2.1\GreatestCommonDivisor.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\SumArrays\bin\Debug\netcoreapp2.1\SumArrays.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\SumArrays\bin\Debug\netcoreapp2.1\SumArrays.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\SumArrays\bin\Debug\netcoreapp2.1\SumArrays.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\SumArrays\bin\Debug\netcoreapp2.1\SumArrays.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\SumArrays\bin\Debug\netcoreapp2.1\SumArrays.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\SumArrays\obj\Debug\netcoreapp2.1\SumArrays.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\SumArrays\obj\Debug\netcoreapp2.1\SumArrays.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\SumArrays\obj\Debug\netcoreapp2.1\SumArrays.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\SumArrays\obj\Debug\netcoreapp2.1\SumArrays.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\SumArrays\obj\Debug\netcoreapp2.1\SumArrays.pdb

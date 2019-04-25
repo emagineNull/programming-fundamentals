@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\TripleSum\bin\Debug\netcoreapp2.1\TripleSum.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\TripleSum\bin\Debug\netcoreapp2.1\TripleSum.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\TripleSum\bin\Debug\netcoreapp2.1\TripleSum.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\TripleSum\bin\Debug\netcoreapp2.1\TripleSum.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\TripleSum\bin\Debug\netcoreapp2.1\TripleSum.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\TripleSum\obj\Debug\netcoreapp2.1\TripleSum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\TripleSum\obj\Debug\netcoreapp2.1\TripleSum.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\TripleSum\obj\Debug\netcoreapp2.1\TripleSum.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\TripleSum\obj\Debug\netcoreapp2.1\TripleSum.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\TripleSum\obj\Debug\netcoreapp2.1\TripleSum.pdb

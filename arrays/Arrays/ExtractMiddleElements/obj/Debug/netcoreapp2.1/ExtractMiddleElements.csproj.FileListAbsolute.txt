@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\ExtractMiddleElements\bin\Debug\netcoreapp2.1\ExtractMiddleElements.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\ExtractMiddleElements\bin\Debug\netcoreapp2.1\ExtractMiddleElements.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\ExtractMiddleElements\bin\Debug\netcoreapp2.1\ExtractMiddleElements.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\ExtractMiddleElements\bin\Debug\netcoreapp2.1\ExtractMiddleElements.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\ExtractMiddleElements\bin\Debug\netcoreapp2.1\ExtractMiddleElements.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\ExtractMiddleElements\obj\Debug\netcoreapp2.1\ExtractMiddleElements.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\ExtractMiddleElements\obj\Debug\netcoreapp2.1\ExtractMiddleElements.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\ExtractMiddleElements\obj\Debug\netcoreapp2.1\ExtractMiddleElements.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\ExtractMiddleElements\obj\Debug\netcoreapp2.1\ExtractMiddleElements.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\ExtractMiddleElements\obj\Debug\netcoreapp2.1\ExtractMiddleElements.pdb

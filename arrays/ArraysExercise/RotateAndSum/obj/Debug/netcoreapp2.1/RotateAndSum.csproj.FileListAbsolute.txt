@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\RotateAndSum\bin\Debug\netcoreapp2.1\RotateAndSum.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\RotateAndSum\bin\Debug\netcoreapp2.1\RotateAndSum.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\RotateAndSum\bin\Debug\netcoreapp2.1\RotateAndSum.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\RotateAndSum\bin\Debug\netcoreapp2.1\RotateAndSum.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\RotateAndSum\bin\Debug\netcoreapp2.1\RotateAndSum.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\RotateAndSum\obj\Debug\netcoreapp2.1\RotateAndSum.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\RotateAndSum\obj\Debug\netcoreapp2.1\RotateAndSum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\RotateAndSum\obj\Debug\netcoreapp2.1\RotateAndSum.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\RotateAndSum\obj\Debug\netcoreapp2.1\RotateAndSum.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\RotateAndSum\obj\Debug\netcoreapp2.1\RotateAndSum.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\RotateAndSum\obj\Debug\netcoreapp2.1\RotateAndSum.pdb

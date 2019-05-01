@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\IndexOfLetters\bin\Debug\netcoreapp2.1\IndexOfLetters.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\IndexOfLetters\bin\Debug\netcoreapp2.1\IndexOfLetters.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\IndexOfLetters\bin\Debug\netcoreapp2.1\IndexOfLetters.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\IndexOfLetters\bin\Debug\netcoreapp2.1\IndexOfLetters.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\IndexOfLetters\bin\Debug\netcoreapp2.1\IndexOfLetters.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\IndexOfLetters\obj\Debug\netcoreapp2.1\IndexOfLetters.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\IndexOfLetters\obj\Debug\netcoreapp2.1\IndexOfLetters.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\IndexOfLetters\obj\Debug\netcoreapp2.1\IndexOfLetters.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\IndexOfLetters\obj\Debug\netcoreapp2.1\IndexOfLetters.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\IndexOfLetters\obj\Debug\netcoreapp2.1\IndexOfLetters.pdb

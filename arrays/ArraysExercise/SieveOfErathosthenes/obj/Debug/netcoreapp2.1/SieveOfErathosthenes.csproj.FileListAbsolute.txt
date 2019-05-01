@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\SieveOfErathosthenes\bin\Debug\netcoreapp2.1\SieveOfErathosthenes.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\SieveOfErathosthenes\bin\Debug\netcoreapp2.1\SieveOfErathosthenes.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\SieveOfErathosthenes\bin\Debug\netcoreapp2.1\SieveOfErathosthenes.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\SieveOfErathosthenes\bin\Debug\netcoreapp2.1\SieveOfErathosthenes.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\SieveOfErathosthenes\bin\Debug\netcoreapp2.1\SieveOfErathosthenes.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\SieveOfErathosthenes\obj\Debug\netcoreapp2.1\SieveOfErathosthenes.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\SieveOfErathosthenes\obj\Debug\netcoreapp2.1\SieveOfErathosthenes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\SieveOfErathosthenes\obj\Debug\netcoreapp2.1\SieveOfErathosthenes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\SieveOfErathosthenes\obj\Debug\netcoreapp2.1\SieveOfErathosthenes.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\SieveOfErathosthenes\obj\Debug\netcoreapp2.1\SieveOfErathosthenes.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\SieveOfErathosthenes\obj\Debug\netcoreapp2.1\SieveOfErathosthenes.pdb

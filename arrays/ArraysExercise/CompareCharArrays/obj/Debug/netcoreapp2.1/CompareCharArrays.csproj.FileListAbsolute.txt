@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\CompareCharArrays\bin\Debug\netcoreapp2.1\CompareCharArrays.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\CompareCharArrays\bin\Debug\netcoreapp2.1\CompareCharArrays.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\CompareCharArrays\bin\Debug\netcoreapp2.1\CompareCharArrays.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\CompareCharArrays\bin\Debug\netcoreapp2.1\CompareCharArrays.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\CompareCharArrays\bin\Debug\netcoreapp2.1\CompareCharArrays.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\CompareCharArrays\obj\Debug\netcoreapp2.1\CompareCharArrays.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\CompareCharArrays\obj\Debug\netcoreapp2.1\CompareCharArrays.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\CompareCharArrays\obj\Debug\netcoreapp2.1\CompareCharArrays.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\CompareCharArrays\obj\Debug\netcoreapp2.1\CompareCharArrays.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\CompareCharArrays\obj\Debug\netcoreapp2.1\CompareCharArrays.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysExercise\CompareCharArrays\obj\Debug\netcoreapp2.1\CompareCharArrays.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ManipulateArray\bin\Debug\netcoreapp2.1\ManipulateArray.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ManipulateArray\bin\Debug\netcoreapp2.1\ManipulateArray.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ManipulateArray\bin\Debug\netcoreapp2.1\ManipulateArray.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ManipulateArray\bin\Debug\netcoreapp2.1\ManipulateArray.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ManipulateArray\bin\Debug\netcoreapp2.1\ManipulateArray.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ManipulateArray\obj\Debug\netcoreapp2.1\ManipulateArray.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ManipulateArray\obj\Debug\netcoreapp2.1\ManipulateArray.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ManipulateArray\obj\Debug\netcoreapp2.1\ManipulateArray.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ManipulateArray\obj\Debug\netcoreapp2.1\ManipulateArray.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ManipulateArray\obj\Debug\netcoreapp2.1\ManipulateArray.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ManipulateArray\obj\Debug\netcoreapp2.1\ManipulateArray.pdb

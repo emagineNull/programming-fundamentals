@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ArrayStatistics\bin\Debug\netcoreapp2.1\ArrayStatistics.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ArrayStatistics\bin\Debug\netcoreapp2.1\ArrayStatistics.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ArrayStatistics\bin\Debug\netcoreapp2.1\ArrayStatistics.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ArrayStatistics\bin\Debug\netcoreapp2.1\ArrayStatistics.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ArrayStatistics\bin\Debug\netcoreapp2.1\ArrayStatistics.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ArrayStatistics\obj\Debug\netcoreapp2.1\ArrayStatistics.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ArrayStatistics\obj\Debug\netcoreapp2.1\ArrayStatistics.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ArrayStatistics\obj\Debug\netcoreapp2.1\ArrayStatistics.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ArrayStatistics\obj\Debug\netcoreapp2.1\ArrayStatistics.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ArrayStatistics\obj\Debug\netcoreapp2.1\ArrayStatistics.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\ArrayStatistics\obj\Debug\netcoreapp2.1\ArrayStatistics.pdb

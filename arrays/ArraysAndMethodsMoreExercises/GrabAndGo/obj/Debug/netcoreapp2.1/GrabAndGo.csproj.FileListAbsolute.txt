@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\GrabAndGo\bin\Debug\netcoreapp2.1\GrabAndGo.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\GrabAndGo\bin\Debug\netcoreapp2.1\GrabAndGo.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\GrabAndGo\bin\Debug\netcoreapp2.1\GrabAndGo.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\GrabAndGo\bin\Debug\netcoreapp2.1\GrabAndGo.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\GrabAndGo\bin\Debug\netcoreapp2.1\GrabAndGo.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\GrabAndGo\obj\Debug\netcoreapp2.1\GrabAndGo.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\GrabAndGo\obj\Debug\netcoreapp2.1\GrabAndGo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\GrabAndGo\obj\Debug\netcoreapp2.1\GrabAndGo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\GrabAndGo\obj\Debug\netcoreapp2.1\GrabAndGo.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\GrabAndGo\obj\Debug\netcoreapp2.1\GrabAndGo.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\GrabAndGo\obj\Debug\netcoreapp2.1\GrabAndGo.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\SafeManipulation\bin\Debug\netcoreapp2.1\SafeManipulation.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\SafeManipulation\bin\Debug\netcoreapp2.1\SafeManipulation.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\SafeManipulation\bin\Debug\netcoreapp2.1\SafeManipulation.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\SafeManipulation\bin\Debug\netcoreapp2.1\SafeManipulation.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\SafeManipulation\bin\Debug\netcoreapp2.1\SafeManipulation.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\SafeManipulation\obj\Debug\netcoreapp2.1\SafeManipulation.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\SafeManipulation\obj\Debug\netcoreapp2.1\SafeManipulation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\SafeManipulation\obj\Debug\netcoreapp2.1\SafeManipulation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\SafeManipulation\obj\Debug\netcoreapp2.1\SafeManipulation.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\SafeManipulation\obj\Debug\netcoreapp2.1\SafeManipulation.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\SafeManipulation\obj\Debug\netcoreapp2.1\SafeManipulation.pdb

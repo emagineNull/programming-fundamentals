@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\UpgradedMatcher\bin\Debug\netcoreapp2.1\UpgradedMatcher.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\UpgradedMatcher\bin\Debug\netcoreapp2.1\UpgradedMatcher.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\UpgradedMatcher\bin\Debug\netcoreapp2.1\UpgradedMatcher.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\UpgradedMatcher\bin\Debug\netcoreapp2.1\UpgradedMatcher.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\UpgradedMatcher\bin\Debug\netcoreapp2.1\UpgradedMatcher.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\UpgradedMatcher\obj\Debug\netcoreapp2.1\UpgradedMatcher.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\UpgradedMatcher\obj\Debug\netcoreapp2.1\UpgradedMatcher.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\UpgradedMatcher\obj\Debug\netcoreapp2.1\UpgradedMatcher.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\UpgradedMatcher\obj\Debug\netcoreapp2.1\UpgradedMatcher.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\UpgradedMatcher\obj\Debug\netcoreapp2.1\UpgradedMatcher.pdb

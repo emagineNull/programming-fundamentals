@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\PizzaIngredients\bin\Debug\netcoreapp2.1\PizzaIngredients.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\PizzaIngredients\bin\Debug\netcoreapp2.1\PizzaIngredients.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\PizzaIngredients\bin\Debug\netcoreapp2.1\PizzaIngredients.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\PizzaIngredients\bin\Debug\netcoreapp2.1\PizzaIngredients.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\PizzaIngredients\bin\Debug\netcoreapp2.1\PizzaIngredients.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\PizzaIngredients\obj\Debug\netcoreapp2.1\PizzaIngredients.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\PizzaIngredients\obj\Debug\netcoreapp2.1\PizzaIngredients.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\PizzaIngredients\obj\Debug\netcoreapp2.1\PizzaIngredients.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\PizzaIngredients\obj\Debug\netcoreapp2.1\PizzaIngredients.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\PizzaIngredients\obj\Debug\netcoreapp2.1\PizzaIngredients.pdb

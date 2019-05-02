@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\JumpAround\bin\Debug\netcoreapp2.1\JumpAround.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\JumpAround\bin\Debug\netcoreapp2.1\JumpAround.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\JumpAround\bin\Debug\netcoreapp2.1\JumpAround.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\JumpAround\bin\Debug\netcoreapp2.1\JumpAround.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\JumpAround\bin\Debug\netcoreapp2.1\JumpAround.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\JumpAround\obj\Debug\netcoreapp2.1\JumpAround.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\JumpAround\obj\Debug\netcoreapp2.1\JumpAround.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\JumpAround\obj\Debug\netcoreapp2.1\JumpAround.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\JumpAround\obj\Debug\netcoreapp2.1\JumpAround.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Arrays\ArraysAndMethodsMoreExercises\JumpAround\obj\Debug\netcoreapp2.1\JumpAround.pdb

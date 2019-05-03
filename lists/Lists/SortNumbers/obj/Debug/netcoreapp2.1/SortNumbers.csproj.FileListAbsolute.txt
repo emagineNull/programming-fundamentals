@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SortNumbers\bin\Debug\netcoreapp2.1\SortNumbers.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SortNumbers\bin\Debug\netcoreapp2.1\SortNumbers.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SortNumbers\bin\Debug\netcoreapp2.1\SortNumbers.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SortNumbers\bin\Debug\netcoreapp2.1\SortNumbers.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SortNumbers\bin\Debug\netcoreapp2.1\SortNumbers.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SortNumbers\obj\Debug\netcoreapp2.1\SortNumbers.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SortNumbers\obj\Debug\netcoreapp2.1\SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SortNumbers\obj\Debug\netcoreapp2.1\SortNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SortNumbers\obj\Debug\netcoreapp2.1\SortNumbers.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SortNumbers\obj\Debug\netcoreapp2.1\SortNumbers.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SortNumbers\obj\Debug\netcoreapp2.1\SortNumbers.pdb

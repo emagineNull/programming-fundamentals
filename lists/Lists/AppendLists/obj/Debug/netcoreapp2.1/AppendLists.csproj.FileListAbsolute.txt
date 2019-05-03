@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\AppendLists\bin\Debug\netcoreapp2.1\AppendLists.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\AppendLists\bin\Debug\netcoreapp2.1\AppendLists.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\AppendLists\bin\Debug\netcoreapp2.1\AppendLists.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\AppendLists\bin\Debug\netcoreapp2.1\AppendLists.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\AppendLists\bin\Debug\netcoreapp2.1\AppendLists.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\AppendLists\obj\Debug\netcoreapp2.1\AppendLists.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\AppendLists\obj\Debug\netcoreapp2.1\AppendLists.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\AppendLists\obj\Debug\netcoreapp2.1\AppendLists.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\AppendLists\obj\Debug\netcoreapp2.1\AppendLists.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\AppendLists\obj\Debug\netcoreapp2.1\AppendLists.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\AppendLists\obj\Debug\netcoreapp2.1\AppendLists.pdb

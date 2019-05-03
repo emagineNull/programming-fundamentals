@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SplitByWordCasing\bin\Debug\netcoreapp2.1\SplitByWordCasing.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SplitByWordCasing\bin\Debug\netcoreapp2.1\SplitByWordCasing.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SplitByWordCasing\bin\Debug\netcoreapp2.1\SplitByWordCasing.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SplitByWordCasing\bin\Debug\netcoreapp2.1\SplitByWordCasing.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SplitByWordCasing\bin\Debug\netcoreapp2.1\SplitByWordCasing.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SplitByWordCasing\obj\Debug\netcoreapp2.1\SplitByWordCasing.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SplitByWordCasing\obj\Debug\netcoreapp2.1\SplitByWordCasing.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SplitByWordCasing\obj\Debug\netcoreapp2.1\SplitByWordCasing.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SplitByWordCasing\obj\Debug\netcoreapp2.1\SplitByWordCasing.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\SplitByWordCasing\obj\Debug\netcoreapp2.1\SplitByWordCasing.pdb

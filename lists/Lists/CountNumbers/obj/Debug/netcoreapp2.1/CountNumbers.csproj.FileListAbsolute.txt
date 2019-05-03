@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\CountNumbers\bin\Debug\netcoreapp2.1\CountNumbers.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\CountNumbers\bin\Debug\netcoreapp2.1\CountNumbers.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\CountNumbers\bin\Debug\netcoreapp2.1\CountNumbers.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\CountNumbers\bin\Debug\netcoreapp2.1\CountNumbers.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\CountNumbers\bin\Debug\netcoreapp2.1\CountNumbers.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\CountNumbers\obj\Debug\netcoreapp2.1\CountNumbers.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\CountNumbers\obj\Debug\netcoreapp2.1\CountNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\CountNumbers\obj\Debug\netcoreapp2.1\CountNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\CountNumbers\obj\Debug\netcoreapp2.1\CountNumbers.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\CountNumbers\obj\Debug\netcoreapp2.1\CountNumbers.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\Lists\CountNumbers\obj\Debug\netcoreapp2.1\CountNumbers.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\BombNumbers\bin\Debug\netcoreapp2.1\BombNumbers.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\BombNumbers\bin\Debug\netcoreapp2.1\BombNumbers.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\BombNumbers\bin\Debug\netcoreapp2.1\BombNumbers.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\BombNumbers\bin\Debug\netcoreapp2.1\BombNumbers.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\BombNumbers\bin\Debug\netcoreapp2.1\BombNumbers.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\BombNumbers\obj\Debug\netcoreapp2.1\BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\BombNumbers\obj\Debug\netcoreapp2.1\BombNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\BombNumbers\obj\Debug\netcoreapp2.1\BombNumbers.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\BombNumbers\obj\Debug\netcoreapp2.1\BombNumbers.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\BombNumbers\obj\Debug\netcoreapp2.1\BombNumbers.pdb

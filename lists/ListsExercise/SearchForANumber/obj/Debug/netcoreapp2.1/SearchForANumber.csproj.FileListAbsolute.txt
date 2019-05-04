@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\SearchForANumber\bin\Debug\netcoreapp2.1\SearchForANumber.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\SearchForANumber\bin\Debug\netcoreapp2.1\SearchForANumber.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\SearchForANumber\bin\Debug\netcoreapp2.1\SearchForANumber.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\SearchForANumber\bin\Debug\netcoreapp2.1\SearchForANumber.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\SearchForANumber\bin\Debug\netcoreapp2.1\SearchForANumber.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\SearchForANumber\obj\Debug\netcoreapp2.1\SearchForANumber.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\SearchForANumber\obj\Debug\netcoreapp2.1\SearchForANumber.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\SearchForANumber\obj\Debug\netcoreapp2.1\SearchForANumber.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\SearchForANumber\obj\Debug\netcoreapp2.1\SearchForANumber.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\SearchForANumber\obj\Debug\netcoreapp2.1\SearchForANumber.pdb

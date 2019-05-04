@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\LongestIncreasingSubsequence\bin\Debug\netcoreapp2.1\LongestIncreasingSubsequence.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\LongestIncreasingSubsequence\bin\Debug\netcoreapp2.1\LongestIncreasingSubsequence.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\LongestIncreasingSubsequence\bin\Debug\netcoreapp2.1\LongestIncreasingSubsequence.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\LongestIncreasingSubsequence\bin\Debug\netcoreapp2.1\LongestIncreasingSubsequence.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\LongestIncreasingSubsequence\bin\Debug\netcoreapp2.1\LongestIncreasingSubsequence.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\LongestIncreasingSubsequence\obj\Debug\netcoreapp2.1\LongestIncreasingSubsequence.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\LongestIncreasingSubsequence\obj\Debug\netcoreapp2.1\LongestIncreasingSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\LongestIncreasingSubsequence\obj\Debug\netcoreapp2.1\LongestIncreasingSubsequence.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\LongestIncreasingSubsequence\obj\Debug\netcoreapp2.1\LongestIncreasingSubsequence.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\LongestIncreasingSubsequence\obj\Debug\netcoreapp2.1\LongestIncreasingSubsequence.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Lists\ListsExercise\LongestIncreasingSubsequence\obj\Debug\netcoreapp2.1\LongestIncreasingSubsequence.pdb

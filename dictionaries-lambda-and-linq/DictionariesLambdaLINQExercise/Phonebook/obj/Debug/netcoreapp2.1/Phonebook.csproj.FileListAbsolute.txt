@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\Phonebook\bin\Debug\netcoreapp2.1\Phonebook.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\Phonebook\bin\Debug\netcoreapp2.1\Phonebook.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\Phonebook\bin\Debug\netcoreapp2.1\Phonebook.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\Phonebook\bin\Debug\netcoreapp2.1\Phonebook.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\Phonebook\bin\Debug\netcoreapp2.1\Phonebook.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\Phonebook\obj\Debug\netcoreapp2.1\Phonebook.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\Phonebook\obj\Debug\netcoreapp2.1\Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\Phonebook\obj\Debug\netcoreapp2.1\Phonebook.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\Phonebook\obj\Debug\netcoreapp2.1\Phonebook.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\Phonebook\obj\Debug\netcoreapp2.1\Phonebook.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\Phonebook\obj\Debug\netcoreapp2.1\Phonebook.pdb

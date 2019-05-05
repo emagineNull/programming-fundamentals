@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\FixEmails\bin\Debug\netcoreapp2.1\FixEmails.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\FixEmails\bin\Debug\netcoreapp2.1\FixEmails.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\FixEmails\bin\Debug\netcoreapp2.1\FixEmails.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\FixEmails\bin\Debug\netcoreapp2.1\FixEmails.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\FixEmails\bin\Debug\netcoreapp2.1\FixEmails.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\FixEmails\obj\Debug\netcoreapp2.1\FixEmails.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\FixEmails\obj\Debug\netcoreapp2.1\FixEmails.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\FixEmails\obj\Debug\netcoreapp2.1\FixEmails.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\FixEmails\obj\Debug\netcoreapp2.1\FixEmails.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\FixEmails\obj\Debug\netcoreapp2.1\FixEmails.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\FixEmails\obj\Debug\netcoreapp2.1\FixEmails.pdb

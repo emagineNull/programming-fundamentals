@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\AMinerTask\bin\Debug\netcoreapp2.1\AMinerTask.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\AMinerTask\bin\Debug\netcoreapp2.1\AMinerTask.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\AMinerTask\bin\Debug\netcoreapp2.1\AMinerTask.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\AMinerTask\bin\Debug\netcoreapp2.1\AMinerTask.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\AMinerTask\bin\Debug\netcoreapp2.1\AMinerTask.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\AMinerTask\obj\Debug\netcoreapp2.1\AMinerTask.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\AMinerTask\obj\Debug\netcoreapp2.1\AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\AMinerTask\obj\Debug\netcoreapp2.1\AMinerTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\AMinerTask\obj\Debug\netcoreapp2.1\AMinerTask.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\AMinerTask\obj\Debug\netcoreapp2.1\AMinerTask.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\AMinerTask\obj\Debug\netcoreapp2.1\AMinerTask.pdb

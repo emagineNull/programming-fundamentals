@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\Largest3Numbers\bin\Debug\netcoreapp2.1\Largest3Numbers.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\Largest3Numbers\bin\Debug\netcoreapp2.1\Largest3Numbers.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\Largest3Numbers\bin\Debug\netcoreapp2.1\Largest3Numbers.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\Largest3Numbers\bin\Debug\netcoreapp2.1\Largest3Numbers.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\Largest3Numbers\bin\Debug\netcoreapp2.1\Largest3Numbers.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\Largest3Numbers\obj\Debug\netcoreapp2.1\Largest3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\Largest3Numbers\obj\Debug\netcoreapp2.1\Largest3Numbers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\Largest3Numbers\obj\Debug\netcoreapp2.1\Largest3Numbers.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\Largest3Numbers\obj\Debug\netcoreapp2.1\Largest3Numbers.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaAndLINQ\Largest3Numbers\obj\Debug\netcoreapp2.1\Largest3Numbers.pdb

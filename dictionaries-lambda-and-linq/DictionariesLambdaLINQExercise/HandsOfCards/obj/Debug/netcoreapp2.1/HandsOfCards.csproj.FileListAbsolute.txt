@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\HandsOfCards\bin\Debug\netcoreapp2.1\HandsOfCards.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\HandsOfCards\bin\Debug\netcoreapp2.1\HandsOfCards.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\HandsOfCards\bin\Debug\netcoreapp2.1\HandsOfCards.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\HandsOfCards\bin\Debug\netcoreapp2.1\HandsOfCards.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\HandsOfCards\bin\Debug\netcoreapp2.1\HandsOfCards.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\HandsOfCards\obj\Debug\netcoreapp2.1\HandsOfCards.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\HandsOfCards\obj\Debug\netcoreapp2.1\HandsOfCards.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\HandsOfCards\obj\Debug\netcoreapp2.1\HandsOfCards.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\HandsOfCards\obj\Debug\netcoreapp2.1\HandsOfCards.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\HandsOfCards\obj\Debug\netcoreapp2.1\HandsOfCards.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\HandsOfCards\obj\Debug\netcoreapp2.1\HandsOfCards.pdb

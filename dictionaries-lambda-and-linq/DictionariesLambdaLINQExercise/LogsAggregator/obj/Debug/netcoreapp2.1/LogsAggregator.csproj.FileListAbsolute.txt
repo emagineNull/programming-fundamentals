@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LogsAggregator\bin\Debug\netcoreapp2.1\LogsAggregator.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LogsAggregator\bin\Debug\netcoreapp2.1\LogsAggregator.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LogsAggregator\bin\Debug\netcoreapp2.1\LogsAggregator.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LogsAggregator\bin\Debug\netcoreapp2.1\LogsAggregator.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LogsAggregator\bin\Debug\netcoreapp2.1\LogsAggregator.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LogsAggregator\obj\Debug\netcoreapp2.1\LogsAggregator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LogsAggregator\obj\Debug\netcoreapp2.1\LogsAggregator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LogsAggregator\obj\Debug\netcoreapp2.1\LogsAggregator.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LogsAggregator\obj\Debug\netcoreapp2.1\LogsAggregator.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LogsAggregator\obj\Debug\netcoreapp2.1\LogsAggregator.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LogsAggregator\obj\Debug\netcoreapp2.1\LogsAggregator.csprojAssemblyReference.cache

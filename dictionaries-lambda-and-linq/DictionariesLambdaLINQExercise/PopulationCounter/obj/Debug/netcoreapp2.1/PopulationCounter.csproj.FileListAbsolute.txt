@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\PopulationCounter\bin\Debug\netcoreapp2.1\PopulationCounter.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\PopulationCounter\bin\Debug\netcoreapp2.1\PopulationCounter.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\PopulationCounter\bin\Debug\netcoreapp2.1\PopulationCounter.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\PopulationCounter\bin\Debug\netcoreapp2.1\PopulationCounter.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\PopulationCounter\bin\Debug\netcoreapp2.1\PopulationCounter.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\PopulationCounter\obj\Debug\netcoreapp2.1\PopulationCounter.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\PopulationCounter\obj\Debug\netcoreapp2.1\PopulationCounter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\PopulationCounter\obj\Debug\netcoreapp2.1\PopulationCounter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\PopulationCounter\obj\Debug\netcoreapp2.1\PopulationCounter.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\PopulationCounter\obj\Debug\netcoreapp2.1\PopulationCounter.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\PopulationCounter\obj\Debug\netcoreapp2.1\PopulationCounter.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LegendaryFarming\bin\Debug\netcoreapp2.1\LegendaryFarming.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LegendaryFarming\bin\Debug\netcoreapp2.1\LegendaryFarming.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LegendaryFarming\bin\Debug\netcoreapp2.1\LegendaryFarming.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LegendaryFarming\bin\Debug\netcoreapp2.1\LegendaryFarming.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LegendaryFarming\bin\Debug\netcoreapp2.1\LegendaryFarming.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LegendaryFarming\obj\Debug\netcoreapp2.1\LegendaryFarming.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LegendaryFarming\obj\Debug\netcoreapp2.1\LegendaryFarming.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LegendaryFarming\obj\Debug\netcoreapp2.1\LegendaryFarming.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LegendaryFarming\obj\Debug\netcoreapp2.1\LegendaryFarming.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LegendaryFarming\obj\Debug\netcoreapp2.1\LegendaryFarming.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\LegendaryFarming\obj\Debug\netcoreapp2.1\LegendaryFarming.pdb

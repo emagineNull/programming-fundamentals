@@ -17,7 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserLogs", "UserLogs\UserLo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PopulationCounter", "PopulationCounter\PopulationCounter.csproj", "{AC71F78A-1DE4-4F7A-8615-DEDA0B23A3F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogsAggregator", "LogsAggregator\LogsAggregator.csproj", "{3A9BA69B-D6E3-47F2-8AFA-65EF3D9A3DDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogsAggregator", "LogsAggregator\LogsAggregator.csproj", "{3A9BA69B-D6E3-47F2-8AFA-65EF3D9A3DDB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LegendaryFarming", "LegendaryFarming\LegendaryFarming.csproj", "{A78A18ED-3DDB-42F9-992E-A1C7FA366F64}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SrubskoUnleashed", "SrubskoUnleashed\SrubskoUnleashed.csproj", "{CAFF5644-9985-4A30-B574-20A89CBF32EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonArmy", "DragonArmy\DragonArmy.csproj", "{33BF4263-B560-4451-9E9F-CEED0BA9161E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +63,18 @@ Global
 		{3A9BA69B-D6E3-47F2-8AFA-65EF3D9A3DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A9BA69B-D6E3-47F2-8AFA-65EF3D9A3DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A9BA69B-D6E3-47F2-8AFA-65EF3D9A3DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A78A18ED-3DDB-42F9-992E-A1C7FA366F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A78A18ED-3DDB-42F9-992E-A1C7FA366F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A78A18ED-3DDB-42F9-992E-A1C7FA366F64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A78A18ED-3DDB-42F9-992E-A1C7FA366F64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAFF5644-9985-4A30-B574-20A89CBF32EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFF5644-9985-4A30-B574-20A89CBF32EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFF5644-9985-4A30-B574-20A89CBF32EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFF5644-9985-4A30-B574-20A89CBF32EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33BF4263-B560-4451-9E9F-CEED0BA9161E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33BF4263-B560-4451-9E9F-CEED0BA9161E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33BF4263-B560-4451-9E9F-CEED0BA9161E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33BF4263-B560-4451-9E9F-CEED0BA9161E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

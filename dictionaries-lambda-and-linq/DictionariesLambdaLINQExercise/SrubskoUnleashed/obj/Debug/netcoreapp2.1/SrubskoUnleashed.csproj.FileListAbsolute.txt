@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\SrubskoUnleashed\bin\Debug\netcoreapp2.1\SrubskoUnleashed.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\SrubskoUnleashed\bin\Debug\netcoreapp2.1\SrubskoUnleashed.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\SrubskoUnleashed\bin\Debug\netcoreapp2.1\SrubskoUnleashed.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\SrubskoUnleashed\bin\Debug\netcoreapp2.1\SrubskoUnleashed.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\SrubskoUnleashed\bin\Debug\netcoreapp2.1\SrubskoUnleashed.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\SrubskoUnleashed\obj\Debug\netcoreapp2.1\SrubskoUnleashed.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\SrubskoUnleashed\obj\Debug\netcoreapp2.1\SrubskoUnleashed.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\SrubskoUnleashed\obj\Debug\netcoreapp2.1\SrubskoUnleashed.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\SrubskoUnleashed\obj\Debug\netcoreapp2.1\SrubskoUnleashed.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\SrubskoUnleashed\obj\Debug\netcoreapp2.1\SrubskoUnleashed.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesLambdaLINQExercise\SrubskoUnleashed\obj\Debug\netcoreapp2.1\SrubskoUnleashed.pdb

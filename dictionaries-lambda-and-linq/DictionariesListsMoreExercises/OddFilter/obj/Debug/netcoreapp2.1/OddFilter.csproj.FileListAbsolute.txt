@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\OddFilter\bin\Debug\netcoreapp2.1\OddFilter.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\OddFilter\bin\Debug\netcoreapp2.1\OddFilter.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\OddFilter\bin\Debug\netcoreapp2.1\OddFilter.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\OddFilter\bin\Debug\netcoreapp2.1\OddFilter.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\OddFilter\bin\Debug\netcoreapp2.1\OddFilter.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\OddFilter\obj\Debug\netcoreapp2.1\OddFilter.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\OddFilter\obj\Debug\netcoreapp2.1\OddFilter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\OddFilter\obj\Debug\netcoreapp2.1\OddFilter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\OddFilter\obj\Debug\netcoreapp2.1\OddFilter.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\OddFilter\obj\Debug\netcoreapp2.1\OddFilter.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\OddFilter\obj\Debug\netcoreapp2.1\OddFilter.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ImmuneSystem\bin\Debug\netcoreapp2.1\ImmuneSystem.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ImmuneSystem\bin\Debug\netcoreapp2.1\ImmuneSystem.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ImmuneSystem\bin\Debug\netcoreapp2.1\ImmuneSystem.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ImmuneSystem\bin\Debug\netcoreapp2.1\ImmuneSystem.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ImmuneSystem\bin\Debug\netcoreapp2.1\ImmuneSystem.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ImmuneSystem\obj\Debug\netcoreapp2.1\ImmuneSystem.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ImmuneSystem\obj\Debug\netcoreapp2.1\ImmuneSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ImmuneSystem\obj\Debug\netcoreapp2.1\ImmuneSystem.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ImmuneSystem\obj\Debug\netcoreapp2.1\ImmuneSystem.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ImmuneSystem\obj\Debug\netcoreapp2.1\ImmuneSystem.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ImmuneSystem\obj\Debug\netcoreapp2.1\ImmuneSystem.pdb

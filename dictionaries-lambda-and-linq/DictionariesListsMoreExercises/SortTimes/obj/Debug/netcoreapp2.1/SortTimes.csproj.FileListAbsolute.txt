@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SortTimes\bin\Debug\netcoreapp2.1\SortTimes.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SortTimes\bin\Debug\netcoreapp2.1\SortTimes.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SortTimes\bin\Debug\netcoreapp2.1\SortTimes.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SortTimes\bin\Debug\netcoreapp2.1\SortTimes.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SortTimes\bin\Debug\netcoreapp2.1\SortTimes.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SortTimes\obj\Debug\netcoreapp2.1\SortTimes.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SortTimes\obj\Debug\netcoreapp2.1\SortTimes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SortTimes\obj\Debug\netcoreapp2.1\SortTimes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SortTimes\obj\Debug\netcoreapp2.1\SortTimes.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SortTimes\obj\Debug\netcoreapp2.1\SortTimes.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SortTimes\obj\Debug\netcoreapp2.1\SortTimes.pdb

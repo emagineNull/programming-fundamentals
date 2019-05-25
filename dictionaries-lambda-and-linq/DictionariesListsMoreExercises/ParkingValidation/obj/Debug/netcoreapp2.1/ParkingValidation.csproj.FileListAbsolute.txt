@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ParkingValidation\bin\Debug\netcoreapp2.1\ParkingValidation.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ParkingValidation\bin\Debug\netcoreapp2.1\ParkingValidation.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ParkingValidation\bin\Debug\netcoreapp2.1\ParkingValidation.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ParkingValidation\bin\Debug\netcoreapp2.1\ParkingValidation.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ParkingValidation\bin\Debug\netcoreapp2.1\ParkingValidation.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ParkingValidation\obj\Debug\netcoreapp2.1\ParkingValidation.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ParkingValidation\obj\Debug\netcoreapp2.1\ParkingValidation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ParkingValidation\obj\Debug\netcoreapp2.1\ParkingValidation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ParkingValidation\obj\Debug\netcoreapp2.1\ParkingValidation.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ParkingValidation\obj\Debug\netcoreapp2.1\ParkingValidation.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\ParkingValidation\obj\Debug\netcoreapp2.1\ParkingValidation.pdb

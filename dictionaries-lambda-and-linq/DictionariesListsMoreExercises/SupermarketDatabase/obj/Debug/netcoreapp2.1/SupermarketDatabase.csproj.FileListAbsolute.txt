@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SupermarketDatabase\bin\Debug\netcoreapp2.1\SupermarketDatabase.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SupermarketDatabase\bin\Debug\netcoreapp2.1\SupermarketDatabase.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SupermarketDatabase\bin\Debug\netcoreapp2.1\SupermarketDatabase.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SupermarketDatabase\bin\Debug\netcoreapp2.1\SupermarketDatabase.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SupermarketDatabase\bin\Debug\netcoreapp2.1\SupermarketDatabase.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SupermarketDatabase\obj\Debug\netcoreapp2.1\SupermarketDatabase.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SupermarketDatabase\obj\Debug\netcoreapp2.1\SupermarketDatabase.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SupermarketDatabase\obj\Debug\netcoreapp2.1\SupermarketDatabase.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SupermarketDatabase\obj\Debug\netcoreapp2.1\SupermarketDatabase.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SupermarketDatabase\obj\Debug\netcoreapp2.1\SupermarketDatabase.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\SupermarketDatabase\obj\Debug\netcoreapp2.1\SupermarketDatabase.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\TakeSkipRope\bin\Debug\netcoreapp2.1\TakeSkipRope.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\TakeSkipRope\bin\Debug\netcoreapp2.1\TakeSkipRope.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\TakeSkipRope\bin\Debug\netcoreapp2.1\TakeSkipRope.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\TakeSkipRope\bin\Debug\netcoreapp2.1\TakeSkipRope.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\TakeSkipRope\bin\Debug\netcoreapp2.1\TakeSkipRope.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\TakeSkipRope\obj\Debug\netcoreapp2.1\TakeSkipRope.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\TakeSkipRope\obj\Debug\netcoreapp2.1\TakeSkipRope.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\TakeSkipRope\obj\Debug\netcoreapp2.1\TakeSkipRope.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\TakeSkipRope\obj\Debug\netcoreapp2.1\TakeSkipRope.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\TakeSkipRope\obj\Debug\netcoreapp2.1\TakeSkipRope.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\DictionariesListsMoreExercises\TakeSkipRope\obj\Debug\netcoreapp2.1\TakeSkipRope.csprojAssemblyReference.cache

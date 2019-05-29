@@ -5,9 +5,13 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountWorkingDays", "CountWorkingDays\CountWorkingDays.csproj", "{12567654-05CD-44A6-82F3-60C094449CCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvertisementMessage", "AdvertisementMessage\AdvertisementMessage.csproj", "{BF481DE4-366D-4EBD-A88A-9CCD3DAD78C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvertisementMessage", "AdvertisementMessage\AdvertisementMessage.csproj", "{BF481DE4-366D-4EBD-A88A-9CCD3DAD78C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntersectionOfCircles", "IntersectionOfCircles\IntersectionOfCircles.csproj", "{6CC8400D-622A-4249-B0DD-BBA9E78B5FE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntersectionOfCircles", "IntersectionOfCircles\IntersectionOfCircles.csproj", "{6CC8400D-622A-4249-B0DD-BBA9E78B5FE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AverageGrades", "AverageGrades\AverageGrades.csproj", "{70709136-51BA-4559-A1B4-93A8A1A3B719}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookLibrary", "BookLibrary\BookLibrary.csproj", "{2E0E7CAD-61B5-44CB-834A-070B19787083}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{6CC8400D-622A-4249-B0DD-BBA9E78B5FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CC8400D-622A-4249-B0DD-BBA9E78B5FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CC8400D-622A-4249-B0DD-BBA9E78B5FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70709136-51BA-4559-A1B4-93A8A1A3B719}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70709136-51BA-4559-A1B4-93A8A1A3B719}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70709136-51BA-4559-A1B4-93A8A1A3B719}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70709136-51BA-4559-A1B4-93A8A1A3B719}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E0E7CAD-61B5-44CB-834A-070B19787083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E0E7CAD-61B5-44CB-834A-070B19787083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E0E7CAD-61B5-44CB-834A-070B19787083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E0E7CAD-61B5-44CB-834A-070B19787083}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,7 +8,7 @@ namespace TeamworkProjects
     {
         public string TeamName { get; set; }
         public List<string> Members = new List<string>();
-        public string Name { get; set; }
+        public string CreatorName { get; set; }
     }
 
     class Program
@@ -16,108 +16,93 @@ namespace TeamworkProjects
         static void Main(string[] args)
         {
             var n = int.Parse(Console.ReadLine());
-            List<Team> teams = new List<Team>();
-            var input1 = Console.ReadLine().Split('-').ToArray();
+            var teams = new List<Team>();
 
             for (int i = 0; i < n; i++)
             {
-                var user = input1[0];
-                var team = input1[1];
-
-                var canAdd = true;
-                if (teams.Any(x => x.Name == user))
-                {
-                    Console.WriteLine($"{user} cannot create another team!");
-                    canAdd = false;
-                }
-
-                foreach (var teamName in teams)
-                {
-                    if (teamName.Members.Contains(team))
-                    {
-                        Console.WriteLine($"Team {team} was already created!");
-                        canAdd = false;
-                    }
-                }
-
-                if (canAdd == true)
-                {
-                    var newTeam = new Team()
-                    {
-                        TeamName = team,
-                        Name = user,
-                        Members = new List<string>()
-                    };
-                    teams.Add(newTeam);
-                    Console.WriteLine($"Team {team} has been created by {user}!");
-                }
-
-                input1 = Console.ReadLine().Split('-').ToArray();
+                var creatorAndTeam = Console.ReadLine().Split('-').ToList();
+                CreateTeam(creatorAndTeam, teams);
             }
 
-            var input2 = Console.ReadLine().Split("->").ToArray();
+            var memberToTeam = Console.ReadLine().Split(new string[] { "->" },StringSplitOptions.None).ToList();
 
-            while (input2[0] != "end of assignment")
+            while (memberToTeam[0] != "end of assignment")
             {
-                var user = input2[0];
-                var team = input2[1];
+                AddMembers(memberToTeam, teams);
 
-                var doesExist = false;
-                var isSwitch = false;
-
-                foreach (var teamName in teams)
-                {
-                    if (teamName.Members.Contains(team))
-                    {
-                        doesExist = true;
-                    }
-                    if (teamName.Members.Contains(user))
-                    {
-                        isSwitch = true;
-                    }
-                }
-
-                if (doesExist == false && isSwitch == false)
-                {
-                    foreach (var adder in teams)
-                    {
-                        if (adder.TeamName == team)
-                        {
-                            adder.Members.Add(user);
-                        }
-                    }
-                }
-                else if (doesExist == true)
-                {
-                    Console.WriteLine($"Team {team} does not exist!");
-                }
-                else if (isSwitch == true)
-                {
-                    Console.WriteLine($"Member {user} cannot join team {team}!");
-                }
-
-                input2 = Console.ReadLine().Split(new char[] { '-', '>' }).ToArray();
+                memberToTeam = Console.ReadLine().Split(new string[] { "->" }, StringSplitOptions.None).ToList();
             }
 
-            var teamsToDisband = new List<string>();
-            foreach (var teamName in teams.OrderByDescending(x => x.Members.Count).ThenBy(x => x.TeamName))
+            PrintTeams(teams);
+        }
+
+        public static List<Team> CreateTeam(List<string> creatorAndTeam, List<Team> teams)
+        {
+            var creatorName = creatorAndTeam[0];
+            var teamName = creatorAndTeam[1];
+            var team = new Team();
+
+            if (teams.Any(x => x.TeamName == teamName))
             {
-                Console.WriteLine($"{teamName.TeamName}");
-                var dashes = 1;
-                foreach (var teamMembers in teams)
+                Console.WriteLine($"Team {teamName} was already created!");
+                return teams;
+            }
+            else if (teams.Any(x => x.CreatorName == creatorName))
+            {
+                Console.WriteLine($"{creatorName} cannot create another team!");
+                return teams;
+            }
+
+            team.TeamName = teamName;
+            team.CreatorName = creatorName;
+
+            teams.Add(team);
+
+            Console.WriteLine($"Team {teamName} has been created by {creatorName}!");
+
+            return teams;
+        }
+
+        public static List<Team> AddMembers(List<string> memberToTeam, List<Team> teams)
+        {
+            var memberName = memberToTeam[0];
+            var teamName = memberToTeam[1];
+
+            if (!teams.Any(x => x.TeamName == teamName))
+            {
+                Console.WriteLine($"Team {teamName} does not exist!");
+                return teams;
+            }
+            else if (teams.Any(x => x.Members.Contains(memberName)) || teams.Any(x => x.CreatorName == memberName))
+            {
+                Console.WriteLine($"Member {memberName} cannot join team {teamName}!");
+                return teams;
+            }
+
+            teams.Single(x => x.TeamName == memberToTeam[1]).Members.Add(memberName);
+
+            return teams;
+        }
+
+        public static void PrintTeams(List<Team> teams)
+        {
+            var orderedTeams = teams.OrderByDescending(x => x.Members.Count).ThenBy(x => x.TeamName).ToList();
+            var printTeams = orderedTeams.Where(x => x.Members.Count > 0).ToList();
+            foreach (var team in printTeams)
+            {
+                Console.WriteLine($"{team.TeamName}");
+                Console.WriteLine($"- {team.CreatorName}");
+                foreach (var members in team.Members.OrderBy(n => n))
                 {
-                    if (teamMembers.Members.Count == 0)
-                    {
-                        teamsToDisband.Add(teamMembers.TeamName);
-                    }
-                    Console.WriteLine($"{new String('-', dashes)} {teamMembers.Members}");
-                    dashes = 2;
+                    Console.WriteLine($"-- {members}");
                 }
             }
 
-            foreach (var disbandedTeams in teamsToDisband)
+            var teamsToDisband = orderedTeams.Where(x => x.Members.Count == 0).ToList();
+            Console.WriteLine("Teams to disband:");
+            foreach (var team in teamsToDisband)
             {
-                Console.WriteLine($"{disbandedTeams}");
+                Console.WriteLine(team.TeamName);
             }
         }
     }

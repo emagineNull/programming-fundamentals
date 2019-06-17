@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AndreyAndBilliard", "Andrey
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MentorGroup", "MentorGroup\MentorGroup.csproj", "{61FFCA94-4E41-4363-BB24-A9E24893672D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MentorTest", "MentorTest\MentorTest.csproj", "{3ECE84A4-5031-427F-9484-E4B701C921F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MentorTest", "MentorTest\MentorTest.csproj", "{3ECE84A4-5031-427F-9484-E4B701C921F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamworkProjects", "TeamworkProjects\TeamworkProjects.csproj", "{B6A299FD-1AD7-48C3-9A1A-5B5CF9BFA521}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamworkProjects", "TeamworkProjects\TeamworkProjects.csproj", "{B6A299FD-1AD7-48C3-9A1A-5B5CF9BFA521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentGroups", "StudentGroups\StudentGroups.csproj", "{862778D9-FAAA-41D3-A28D-D2C23A1B6DFD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{B6A299FD-1AD7-48C3-9A1A-5B5CF9BFA521}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6A299FD-1AD7-48C3-9A1A-5B5CF9BFA521}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6A299FD-1AD7-48C3-9A1A-5B5CF9BFA521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{862778D9-FAAA-41D3-A28D-D2C23A1B6DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{862778D9-FAAA-41D3-A28D-D2C23A1B6DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{862778D9-FAAA-41D3-A28D-D2C23A1B6DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{862778D9-FAAA-41D3-A28D-D2C23A1B6DFD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -24,7 +24,7 @@ namespace TeamworkProjects
                 CreateTeam(creatorAndTeam, teams);
             }
 
-            var memberToTeam = Console.ReadLine().Split(new string[] { "->" },StringSplitOptions.None).ToList();
+            var memberToTeam = Console.ReadLine().Split(new string[] { "->" }, StringSplitOptions.None).ToList();
 
             while (memberToTeam[0] != "end of assignment")
             {

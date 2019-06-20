@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringDemo\bin\Debug\netcoreapp2.1\StringDemo.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringDemo\bin\Debug\netcoreapp2.1\StringDemo.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringDemo\bin\Debug\netcoreapp2.1\StringDemo.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringDemo\bin\Debug\netcoreapp2.1\StringDemo.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringDemo\bin\Debug\netcoreapp2.1\StringDemo.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringDemo\obj\Debug\netcoreapp2.1\StringDemo.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringDemo\obj\Debug\netcoreapp2.1\StringDemo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringDemo\obj\Debug\netcoreapp2.1\StringDemo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringDemo\obj\Debug\netcoreapp2.1\StringDemo.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringDemo\obj\Debug\netcoreapp2.1\StringDemo.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringDemo\obj\Debug\netcoreapp2.1\StringDemo.pdb

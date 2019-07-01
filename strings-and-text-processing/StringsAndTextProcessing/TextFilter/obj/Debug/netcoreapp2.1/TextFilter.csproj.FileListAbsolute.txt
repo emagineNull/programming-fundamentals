@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\TextFilter\bin\Debug\netcoreapp2.1\TextFilter.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\TextFilter\bin\Debug\netcoreapp2.1\TextFilter.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\TextFilter\bin\Debug\netcoreapp2.1\TextFilter.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\TextFilter\bin\Debug\netcoreapp2.1\TextFilter.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\TextFilter\bin\Debug\netcoreapp2.1\TextFilter.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\TextFilter\obj\Debug\netcoreapp2.1\TextFilter.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\TextFilter\obj\Debug\netcoreapp2.1\TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\TextFilter\obj\Debug\netcoreapp2.1\TextFilter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\TextFilter\obj\Debug\netcoreapp2.1\TextFilter.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\TextFilter\obj\Debug\netcoreapp2.1\TextFilter.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\TextFilter\obj\Debug\netcoreapp2.1\TextFilter.pdb

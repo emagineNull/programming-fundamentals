@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\ExtractingSubstring\bin\Debug\netcoreapp2.1\ExtractingSubstring.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\ExtractingSubstring\bin\Debug\netcoreapp2.1\ExtractingSubstring.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\ExtractingSubstring\bin\Debug\netcoreapp2.1\ExtractingSubstring.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\ExtractingSubstring\bin\Debug\netcoreapp2.1\ExtractingSubstring.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\ExtractingSubstring\bin\Debug\netcoreapp2.1\ExtractingSubstring.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\ExtractingSubstring\obj\Debug\netcoreapp2.1\ExtractingSubstring.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\ExtractingSubstring\obj\Debug\netcoreapp2.1\ExtractingSubstring.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\ExtractingSubstring\obj\Debug\netcoreapp2.1\ExtractingSubstring.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\ExtractingSubstring\obj\Debug\netcoreapp2.1\ExtractingSubstring.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\ExtractingSubstring\obj\Debug\netcoreapp2.1\ExtractingSubstring.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\ExtractingSubstring\obj\Debug\netcoreapp2.1\ExtractingSubstring.pdb

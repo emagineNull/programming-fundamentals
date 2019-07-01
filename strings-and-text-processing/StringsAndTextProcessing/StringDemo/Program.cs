@@ -1,5 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
+using System.Text;
 
 namespace StringDemo
 {
@@ -48,6 +50,112 @@ namespace StringDemo
             Console.WriteLine(notFound);
             Console.WriteLine(firstIndexOfA);
             Console.WriteLine(lastIndexOfA);
+
+            var text5 = "Test Ivan Pesho Gosho";
+
+            var result4 = text5.Replace("es", "BLA");
+            text5 = text5.Replace("es", "BLA");
+
+            Console.WriteLine(result4);
+            Console.WriteLine(text5);
+
+            text5 = text5.Remove(10, 2);
+
+            Console.WriteLine(text5);
+
+            var text6 = "Ivan Pesho Gosho";
+
+            Console.WriteLine(text6.ToLower());
+            Console.WriteLine(text6.ToUpper());
+
+            var text7 = "         asdasd sa       dfd      ";
+
+            Console.WriteLine(text7.Trim());
+            Console.WriteLine(text7.TrimStart());
+            Console.WriteLine(text7.TrimEnd());
+
+            var text8 = "        aaaa   dfsdf gfg fgf aaaaaaaa";
+
+            Console.WriteLine(text8.TrimEnd('a', ' '));
+            Console.WriteLine(text8.TrimStart('a', ' '));
+            Console.WriteLine(text8.Trim('a', ' '));
+
+            var adder = "a";
+
+            var stopwatch = Stopwatch.StartNew();
+
+            for (int i = 0; i < 100000; i++)
+            {
+                adder += "a";
+            }
+
+            stopwatch.Stop();
+
+            Console.WriteLine(stopwatch.Elapsed);
+
+            stopwatch = Stopwatch.StartNew();
+
+            var adderWithSb = new StringBuilder();
+
+            for (int i = 0; i < 100000; i++)
+            {
+                adderWithSb.Append("a");
+            }
+
+            stopwatch.Stop();
+
+            Console.WriteLine(stopwatch.Elapsed);
+
+            var endResult = adderWithSb.ToString();
+
+            var sb = new StringBuilder();
+
+            sb.Append(true);
+            sb.Append(100);
+            sb.AppendLine("text");
+            sb.AppendLine();
+            sb.Append(new List<int>());
+            sb.AppendLine("Text");
+
+            var resultSb = sb.ToString();
+
+            Console.WriteLine(resultSb);
+
+            var sb2 = new StringBuilder();
+
+            sb2.Append("Ivan");
+            sb2[1] = 'a';
+
+            Console.WriteLine(sb2.ToString());
+
+            // a
+            // aa
+            // aaa
+            // aaaa
+            // 10000
+
+            var addSb = new StringBuilder();
+
+            for (int i = 0; i < 100; i++)
+            {
+                // Console.WriteLine(new string('a', 1)); <--- Slower
+                addSb.AppendLine(new string('a', i));
+            }
+
+            Console.WriteLine(addSb.ToString());
+
+            var decSb = new StringBuilder();
+
+            decSb.Append("Ivan");
+            decSb.Append("Gosho");
+
+            decSb.Length--;
+
+            Console.WriteLine(decSb.Length);
+
+            Console.WriteLine(decSb.ToString());
+
+
         }
     }
 }

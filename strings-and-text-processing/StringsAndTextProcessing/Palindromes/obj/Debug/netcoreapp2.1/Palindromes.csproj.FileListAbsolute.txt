@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\Palindromes\bin\Debug\netcoreapp2.1\Palindromes.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\Palindromes\bin\Debug\netcoreapp2.1\Palindromes.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\Palindromes\bin\Debug\netcoreapp2.1\Palindromes.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\Palindromes\bin\Debug\netcoreapp2.1\Palindromes.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\Palindromes\bin\Debug\netcoreapp2.1\Palindromes.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\Palindromes\obj\Debug\netcoreapp2.1\Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\Palindromes\obj\Debug\netcoreapp2.1\Palindromes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\Palindromes\obj\Debug\netcoreapp2.1\Palindromes.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\Palindromes\obj\Debug\netcoreapp2.1\Palindromes.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\Palindromes\obj\Debug\netcoreapp2.1\Palindromes.pdb

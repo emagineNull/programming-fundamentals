@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringConcatenation\bin\Debug\netcoreapp2.1\StringConcatenation.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringConcatenation\bin\Debug\netcoreapp2.1\StringConcatenation.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringConcatenation\bin\Debug\netcoreapp2.1\StringConcatenation.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringConcatenation\bin\Debug\netcoreapp2.1\StringConcatenation.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringConcatenation\bin\Debug\netcoreapp2.1\StringConcatenation.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringConcatenation\obj\Debug\netcoreapp2.1\StringConcatenation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringConcatenation\obj\Debug\netcoreapp2.1\StringConcatenation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringConcatenation\obj\Debug\netcoreapp2.1\StringConcatenation.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringConcatenation\obj\Debug\netcoreapp2.1\StringConcatenation.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessing\StringConcatenation\obj\Debug\netcoreapp2.1\StringConcatenation.pdb

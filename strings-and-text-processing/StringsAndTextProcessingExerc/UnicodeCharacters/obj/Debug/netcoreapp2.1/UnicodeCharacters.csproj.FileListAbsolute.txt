@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\UnicodeCharacters\bin\Debug\netcoreapp2.1\UnicodeCharacters.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\UnicodeCharacters\bin\Debug\netcoreapp2.1\UnicodeCharacters.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\UnicodeCharacters\bin\Debug\netcoreapp2.1\UnicodeCharacters.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\UnicodeCharacters\bin\Debug\netcoreapp2.1\UnicodeCharacters.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\UnicodeCharacters\bin\Debug\netcoreapp2.1\UnicodeCharacters.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\UnicodeCharacters\obj\Debug\netcoreapp2.1\UnicodeCharacters.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\UnicodeCharacters\obj\Debug\netcoreapp2.1\UnicodeCharacters.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\UnicodeCharacters\obj\Debug\netcoreapp2.1\UnicodeCharacters.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\UnicodeCharacters\obj\Debug\netcoreapp2.1\UnicodeCharacters.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\UnicodeCharacters\obj\Debug\netcoreapp2.1\UnicodeCharacters.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\UnicodeCharacters\obj\Debug\netcoreapp2.1\UnicodeCharacters.pdb

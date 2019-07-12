@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\ConvertFromBase-NToBase-10\bin\Debug\netcoreapp2.1\ConvertFromBase-NToBase-10.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\ConvertFromBase-NToBase-10\bin\Debug\netcoreapp2.1\ConvertFromBase-NToBase-10.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\ConvertFromBase-NToBase-10\bin\Debug\netcoreapp2.1\ConvertFromBase-NToBase-10.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\ConvertFromBase-NToBase-10\bin\Debug\netcoreapp2.1\ConvertFromBase-NToBase-10.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\ConvertFromBase-NToBase-10\bin\Debug\netcoreapp2.1\ConvertFromBase-NToBase-10.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\ConvertFromBase-NToBase-10\obj\Debug\netcoreapp2.1\ConvertFromBase-NToBase-10.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\ConvertFromBase-NToBase-10\obj\Debug\netcoreapp2.1\ConvertFromBase-NToBase-10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\ConvertFromBase-NToBase-10\obj\Debug\netcoreapp2.1\ConvertFromBase-NToBase-10.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\ConvertFromBase-NToBase-10\obj\Debug\netcoreapp2.1\ConvertFromBase-NToBase-10.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\ConvertFromBase-NToBase-10\obj\Debug\netcoreapp2.1\ConvertFromBase-NToBase-10.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\ConvertFromBase-NToBase-10\obj\Debug\netcoreapp2.1\ConvertFromBase-NToBase-10.pdb

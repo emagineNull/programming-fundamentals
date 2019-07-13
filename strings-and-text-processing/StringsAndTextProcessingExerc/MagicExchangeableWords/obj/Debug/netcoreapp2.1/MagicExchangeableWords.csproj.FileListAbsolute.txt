@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MagicExchangeableWords\bin\Debug\netcoreapp2.1\MagicExchangeableWords.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MagicExchangeableWords\bin\Debug\netcoreapp2.1\MagicExchangeableWords.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MagicExchangeableWords\bin\Debug\netcoreapp2.1\MagicExchangeableWords.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MagicExchangeableWords\bin\Debug\netcoreapp2.1\MagicExchangeableWords.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MagicExchangeableWords\bin\Debug\netcoreapp2.1\MagicExchangeableWords.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MagicExchangeableWords\obj\Debug\netcoreapp2.1\MagicExchangeableWords.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MagicExchangeableWords\obj\Debug\netcoreapp2.1\MagicExchangeableWords.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MagicExchangeableWords\obj\Debug\netcoreapp2.1\MagicExchangeableWords.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MagicExchangeableWords\obj\Debug\netcoreapp2.1\MagicExchangeableWords.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MagicExchangeableWords\obj\Debug\netcoreapp2.1\MagicExchangeableWords.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MagicExchangeableWords\obj\Debug\netcoreapp2.1\MagicExchangeableWords.pdb

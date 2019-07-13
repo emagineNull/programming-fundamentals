@@ -13,7 +13,7 @@ namespace UnicodeCharacters
             foreach (var c in text)
             {
                 sb.Append("\\u");
-                sb.Append(String.Format("{0:x4}", (int)c));
+                sb.Append(String.Format($"{((int)c):x4}"));
             }
             
             Console.WriteLine(sb.ToString());

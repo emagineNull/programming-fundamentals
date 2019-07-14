@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\SumBigNumbers\bin\Debug\netcoreapp2.1\SumBigNumbers.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\SumBigNumbers\bin\Debug\netcoreapp2.1\SumBigNumbers.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\SumBigNumbers\bin\Debug\netcoreapp2.1\SumBigNumbers.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\SumBigNumbers\bin\Debug\netcoreapp2.1\SumBigNumbers.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\SumBigNumbers\bin\Debug\netcoreapp2.1\SumBigNumbers.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\SumBigNumbers\obj\Debug\netcoreapp2.1\SumBigNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\SumBigNumbers\obj\Debug\netcoreapp2.1\SumBigNumbers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\SumBigNumbers\obj\Debug\netcoreapp2.1\SumBigNumbers.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\SumBigNumbers\obj\Debug\netcoreapp2.1\SumBigNumbers.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\SumBigNumbers\obj\Debug\netcoreapp2.1\SumBigNumbers.pdb

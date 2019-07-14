@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertFromBase-NToBase-10"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnicodeCharacters", "UnicodeCharacters\UnicodeCharacters.csproj", "{9B50C359-5794-44C7-9864-E2E843DDC3A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterMultiplier", "CharacterMultiplier\CharacterMultiplier.csproj", "{7944258E-00F0-455C-BD08-A0C8FCDA604C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CharacterMultiplier", "CharacterMultiplier\CharacterMultiplier.csproj", "{7944258E-00F0-455C-BD08-A0C8FCDA604C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicExchangeableWords", "MagicExchangeableWords\MagicExchangeableWords.csproj", "{A06ED653-078A-4C4B-A377-6F644F82666A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagicExchangeableWords", "MagicExchangeableWords\MagicExchangeableWords.csproj", "{A06ED653-078A-4C4B-A377-6F644F82666A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumBigNumbers", "SumBigNumbers\SumBigNumbers.csproj", "{023EC2AF-BF1B-4095-8CBE-A3A15C6C3A46}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A06ED653-078A-4C4B-A377-6F644F82666A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A06ED653-078A-4C4B-A377-6F644F82666A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A06ED653-078A-4C4B-A377-6F644F82666A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{023EC2AF-BF1B-4095-8CBE-A3A15C6C3A46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023EC2AF-BF1B-4095-8CBE-A3A15C6C3A46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023EC2AF-BF1B-4095-8CBE-A3A15C6C3A46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023EC2AF-BF1B-4095-8CBE-A3A15C6C3A46}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

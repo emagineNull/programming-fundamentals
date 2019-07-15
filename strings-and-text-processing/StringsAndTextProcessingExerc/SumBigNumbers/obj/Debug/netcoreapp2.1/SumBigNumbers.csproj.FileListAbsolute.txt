@@ -8,3 +8,4 @@ C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processi
 C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\SumBigNumbers\obj\Debug\netcoreapp2.1\SumBigNumbers.AssemblyInfo.cs
 C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\SumBigNumbers\obj\Debug\netcoreapp2.1\SumBigNumbers.dll
 C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\SumBigNumbers\obj\Debug\netcoreapp2.1\SumBigNumbers.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\SumBigNumbers\obj\Debug\netcoreapp2.1\SumBigNumbers.csprojAssemblyReference.cache

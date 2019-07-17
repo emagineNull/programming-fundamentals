@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MelrahShake\bin\Debug\netcoreapp2.1\MelrahShake.deps.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MelrahShake\bin\Debug\netcoreapp2.1\MelrahShake.runtimeconfig.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MelrahShake\bin\Debug\netcoreapp2.1\MelrahShake.runtimeconfig.dev.json
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MelrahShake\bin\Debug\netcoreapp2.1\MelrahShake.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MelrahShake\bin\Debug\netcoreapp2.1\MelrahShake.pdb
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MelrahShake\obj\Debug\netcoreapp2.1\MelrahShake.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MelrahShake\obj\Debug\netcoreapp2.1\MelrahShake.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MelrahShake\obj\Debug\netcoreapp2.1\MelrahShake.AssemblyInfo.cs
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MelrahShake\obj\Debug\netcoreapp2.1\MelrahShake.dll
+C:\Users\User\Desktop\SoftUni\Programming Fundamentals\Strings And Text Processing\StringsAndTextProcessingExerc\MelrahShake\obj\Debug\netcoreapp2.1\MelrahShake.pdb

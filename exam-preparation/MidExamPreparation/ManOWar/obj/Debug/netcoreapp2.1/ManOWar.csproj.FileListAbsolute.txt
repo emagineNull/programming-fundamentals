@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\ManOWar\bin\Debug\netcoreapp2.1\ManOWar.deps.json
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\ManOWar\bin\Debug\netcoreapp2.1\ManOWar.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\ManOWar\bin\Debug\netcoreapp2.1\ManOWar.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\ManOWar\bin\Debug\netcoreapp2.1\ManOWar.dll
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\ManOWar\bin\Debug\netcoreapp2.1\ManOWar.pdb
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\ManOWar\obj\Debug\netcoreapp2.1\ManOWar.csprojAssemblyReference.cache
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\ManOWar\obj\Debug\netcoreapp2.1\ManOWar.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\ManOWar\obj\Debug\netcoreapp2.1\ManOWar.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\ManOWar\obj\Debug\netcoreapp2.1\ManOWar.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\ManOWar\obj\Debug\netcoreapp2.1\ManOWar.dll
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\ManOWar\obj\Debug\netcoreapp2.1\ManOWar.pdb

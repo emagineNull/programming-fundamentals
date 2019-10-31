@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\TreasureHunt\bin\Debug\netcoreapp2.1\TreasureHunt.deps.json
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\TreasureHunt\bin\Debug\netcoreapp2.1\TreasureHunt.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\TreasureHunt\bin\Debug\netcoreapp2.1\TreasureHunt.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\TreasureHunt\bin\Debug\netcoreapp2.1\TreasureHunt.dll
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\TreasureHunt\bin\Debug\netcoreapp2.1\TreasureHunt.pdb
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\TreasureHunt\obj\Debug\netcoreapp2.1\TreasureHunt.csprojAssemblyReference.cache
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\TreasureHunt\obj\Debug\netcoreapp2.1\TreasureHunt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\TreasureHunt\obj\Debug\netcoreapp2.1\TreasureHunt.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\TreasureHunt\obj\Debug\netcoreapp2.1\TreasureHunt.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\TreasureHunt\obj\Debug\netcoreapp2.1\TreasureHunt.dll
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\TreasureHunt\obj\Debug\netcoreapp2.1\TreasureHunt.pdb

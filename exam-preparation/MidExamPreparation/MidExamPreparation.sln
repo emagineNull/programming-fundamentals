@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackFlag", "BlackFlag\BlackFlag.csproj", "{898596D2-52EF-4162-B507-6EC9B27D9057}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreasureHunt", "TreasureHunt\TreasureHunt.csproj", "{B7E48568-91AE-4E29-862D-462260B1C3EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManOWar", "ManOWar\ManOWar.csproj", "{F765A46E-10D9-476A-BA13-F25D1960FF90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{898596D2-52EF-4162-B507-6EC9B27D9057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{898596D2-52EF-4162-B507-6EC9B27D9057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{898596D2-52EF-4162-B507-6EC9B27D9057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{898596D2-52EF-4162-B507-6EC9B27D9057}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7E48568-91AE-4E29-862D-462260B1C3EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7E48568-91AE-4E29-862D-462260B1C3EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7E48568-91AE-4E29-862D-462260B1C3EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7E48568-91AE-4E29-862D-462260B1C3EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F765A46E-10D9-476A-BA13-F25D1960FF90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F765A46E-10D9-476A-BA13-F25D1960FF90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F765A46E-10D9-476A-BA13-F25D1960FF90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F765A46E-10D9-476A-BA13-F25D1960FF90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DDDC8F6-1005-42A5-81B8-A681E67B3D0A}
+	EndGlobalSection
+EndGlobal

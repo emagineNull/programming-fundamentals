@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\BlackFlag\bin\Debug\netcoreapp2.1\BlackFlag.deps.json
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\BlackFlag\bin\Debug\netcoreapp2.1\BlackFlag.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\BlackFlag\bin\Debug\netcoreapp2.1\BlackFlag.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\BlackFlag\bin\Debug\netcoreapp2.1\BlackFlag.dll
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\BlackFlag\bin\Debug\netcoreapp2.1\BlackFlag.pdb
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\BlackFlag\obj\Debug\netcoreapp2.1\BlackFlag.csprojAssemblyReference.cache
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\BlackFlag\obj\Debug\netcoreapp2.1\BlackFlag.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\BlackFlag\obj\Debug\netcoreapp2.1\BlackFlag.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\BlackFlag\obj\Debug\netcoreapp2.1\BlackFlag.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\BlackFlag\obj\Debug\netcoreapp2.1\BlackFlag.dll
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Mid Exam Preparation\MidExamPreparation\BlackFlag\obj\Debug\netcoreapp2.1\BlackFlag.pdb

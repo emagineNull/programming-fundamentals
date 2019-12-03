@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Final Exam Prep II\FinalExamPrepII\Followers\bin\Debug\netcoreapp2.1\Followers.deps.json
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Final Exam Prep II\FinalExamPrepII\Followers\bin\Debug\netcoreapp2.1\Followers.runtimeconfig.json
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Final Exam Prep II\FinalExamPrepII\Followers\bin\Debug\netcoreapp2.1\Followers.runtimeconfig.dev.json
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Final Exam Prep II\FinalExamPrepII\Followers\bin\Debug\netcoreapp2.1\Followers.dll
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Final Exam Prep II\FinalExamPrepII\Followers\bin\Debug\netcoreapp2.1\Followers.pdb
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Final Exam Prep II\FinalExamPrepII\Followers\obj\Debug\netcoreapp2.1\Followers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Final Exam Prep II\FinalExamPrepII\Followers\obj\Debug\netcoreapp2.1\Followers.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Final Exam Prep II\FinalExamPrepII\Followers\obj\Debug\netcoreapp2.1\Followers.AssemblyInfo.cs
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Final Exam Prep II\FinalExamPrepII\Followers\obj\Debug\netcoreapp2.1\Followers.dll
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Final Exam Prep II\FinalExamPrepII\Followers\obj\Debug\netcoreapp2.1\Followers.pdb
+C:\Users\User\Desktop\stuff\C# Fundamentals - September 2019\Final Exam Prep II\FinalExamPrepII\Followers\obj\Debug\netcoreapp2.1\Followers.csprojAssemblyReference.cache
